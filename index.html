@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3" />
+  <title>nicolabragafoto</title>
+  <meta name="description" content="Fotógrafo esportivo - Fortaleza. Veja os álbuns de fotos." />
+  <meta property="og:title" content="nicolabragafoto" />
+  <meta property="og:image" content="https://img.linkme.bio/img/2025/12/11203119/9C6A5411menor.jpg" />
+  <!-- Links atualizados por update_links.py -->
+  <script src="links-data.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a0a;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      padding: 36px 16px 56px;
+    }
+
+    .container { width: 100%; max-width: 500px; display: flex; flex-direction: column; align-items: center; }
+
+    /* ── Profile ── */
+    .profile { display: flex; flex-direction: column; align-items: center; gap: 10px; margin-bottom: 4px; text-align: center; }
+
+    .avatar-ring {
+      width: 96px; height: 96px; border-radius: 50%; padding: 3px;
+      background: conic-gradient(#f59e0b, #ef4444, #f59e0b, #fbbf24, #f59e0b);
+      margin-bottom: 4px;
+    }
+    .avatar-ring img {
+      width: 100%; height: 100%; border-radius: 50%; object-fit: cover;
+      border: 2px solid #0a0a0a; display: block;
+    }
+
+    .profile h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.01em; }
+
+    .bio-lines { display: flex; flex-direction: column; gap: 4px; font-size: 0.83rem; color: #ccc; line-height: 1.5; }
+    .bio-lines a { color: #f59e0b; text-decoration: none; font-weight: 500; }
+    .bio-lines a:hover { text-decoration: underline; }
+
+    .divider { width: 100%; height: 1px; background: #222; margin: 20px 0; }
+
+    /* ── WhatsApp ── */
+    .btn-whatsapp {
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      background: linear-gradient(135deg, #25D366, #1ebe5a);
+      color: #fff; text-decoration: none; font-size: 0.95rem; font-weight: 700;
+      padding: 15px 24px; border-radius: 12px; width: 100%; margin-bottom: 28px;
+      box-shadow: 0 4px 20px #25d36630;
+      transition: opacity 0.18s, transform 0.1s;
+    }
+    .btn-whatsapp:hover { opacity: 0.92; transform: translateY(-1px); }
+
+    /* ── Section header ── */
+    .section-header { display: flex; align-items: center; justify-content: space-between; width: 100%; margin-bottom: 12px; }
+    .section-label { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; color: #555; }
+    .section-meta { display: flex; align-items: center; gap: 8px; }
+    .updated-at { font-size: 0.65rem; color: #333; }
+
+    .btn-refresh {
+      display: flex; align-items: center; gap: 5px;
+      background: #1a1a1a; border: 1px solid #2e2e2e; color: #aaa;
+      font-size: 0.75rem; font-weight: 600; padding: 5px 11px; border-radius: 20px;
+      cursor: pointer; transition: background 0.18s, color 0.18s, border-color 0.18s;
+      font-family: inherit;
+    }
+    .btn-refresh:hover { background: #242424; border-color: #3a3a3a; color: #fff; }
+    .btn-refresh:disabled { opacity: 0.5; cursor: default; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spin-icon { display: inline-block; }
+    .spinning .spin-icon { animation: spin 0.6s linear infinite; }
+
+    /* ── Album cards ── */
+    .links { display: flex; flex-direction: column; gap: 7px; width: 100%; }
+
+    .link-btn {
+      display: flex; align-items: center; gap: 12px;
+      background: #141414; border: 1px solid #1f1f1f;
+      color: #fff; text-decoration: none; padding: 13px 14px; border-radius: 12px;
+      transition: background 0.16s, border-color 0.16s, transform 0.1s;
+    }
+    .link-btn:hover { background: #1c1c1c; border-color: #2a2a2a; transform: translateY(-1px); }
+    .link-btn:active { transform: translateY(0); }
+
+    .link-icon {
+      font-size: 1.25rem; flex-shrink: 0; width: 34px; height: 34px;
+      display: flex; align-items: center; justify-content: center;
+      background: #1e1e1e; border-radius: 8px;
+    }
+    .link-body { flex: 1; min-width: 0; }
+    .link-title { font-size: 0.88rem; font-weight: 600; color: #e8e8e8; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .link-date { font-size: 0.73rem; color: #f59e0b; margin-top: 2px; font-weight: 500; }
+    .link-right { display: flex; align-items: center; gap: 7px; flex-shrink: 0; }
+    .badge-novo { background: #f59e0b; color: #000; font-size: 0.6rem; font-weight: 800; padding: 2px 7px; border-radius: 20px; letter-spacing: 0.06em; text-transform: uppercase; }
+    .link-chevron { color: #3a3a3a; }
+
+    /* ── No data state ── */
+    .state-box { width: 100%; padding: 28px 16px; text-align: center; border-radius: 12px; background: #141414; border: 1px solid #1f1f1f; }
+    .state-box .state-icon { font-size: 2rem; margin-bottom: 10px; }
+    .state-box p { font-size: 0.85rem; color: #666; line-height: 1.5; }
+    .state-box code { font-size: 0.8rem; background: #1e1e1e; padding: 2px 6px; border-radius: 4px; color: #f59e0b; }
+
+    /* ── Footer ── */
+    .footer { margin-top: 32px; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+    .social-link { display: flex; align-items: center; gap: 8px; color: #aaa; text-decoration: none; font-size: 0.875rem; font-weight: 500; transition: color 0.18s; }
+    .social-link:hover { color: #fff; }
+    .pix-info { font-size: 0.7rem; color: #3a3a3a; text-align: center; }
+    .pix-key { color: #444; font-family: monospace; font-size: 0.67rem; word-break: break-all; }
+    .powered { font-size: 0.65rem; color: #2a2a2a; }
+    .powered a { color: #3a3a3a; text-decoration: none; }
+    .powered a:hover { color: #666; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Profile -->
+  <div class="profile">
+    <div class="avatar-ring">
+      <img src="https://img.linkme.bio/img/2025/12/11203119/9C6A5411menor-150x150.jpg" alt="nicolabragafoto" />
+    </div>
+    <h1>nicolabragafoto</h1>
+    <div class="bio-lines">
+      <span>📷 Fotógrafo esportivo · <a href="https://fotopix.com.br" target="_blank" rel="noopener">fotopix.com.br</a></span>
+      <span>📩 <a href="mailto:nicola.emfocosurf@gmail.com">nicola.emfocosurf@gmail.com</a></span>
+      <span>💠 Pix: d38eda0f-0370-4bce-8823-95020e4b2d8e</span>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- WhatsApp -->
+  <a class="btn-whatsapp" href="https://chat.whatsapp.com/DKN5T3EguFgIU9tonK9Pxn" target="_blank" rel="noopener">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+    Receba os links no WhatsApp
+  </a>
+
+  <!-- Section header -->
+  <div class="section-header">
+    <span class="section-label">Álbuns recentes</span>
+    <div class="section-meta">
+      <span class="updated-at" id="updatedAt"></span>
+      <button class="btn-refresh" id="btnRefresh" onclick="hardRefresh()">
+        <span class="spin-icon" id="spinIcon">↺</span> Atualizar
+      </button>
+    </div>
+  </div>
+
+  <!-- Links container -->
+  <div class="links" id="linksContainer"></div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <a class="social-link" href="https://www.instagram.com/nicolabragafoto/" target="_blank" rel="noopener">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @nicolabragafoto
+    </a>
+    <div class="pix-info">Pix: <span class="pix-key">d38eda0f-0370-4bce-8823-95020e4b2d8e</span></div>
+    <div class="powered">fotos em <a href="https://fotopix.com.br" target="_blank" rel="noopener">fotopix.com.br</a></div>
+  </div>
+
+</div>
+
+<script>
+  const chevron = `<svg class="link-chevron" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>`;
+
+  function getIcon(t) {
+    t = t.toLowerCase();
+    if (t.includes('sabiaguaba'))                            return '🏄‍♂️';
+    if (t.includes('tarde') || t.includes('noite'))          return '🌆';
+    if (t.includes('beira mar'))                             return '🏖️';
+    if (t.includes('lagoa') || t.includes('rio de janeiro')) return '🚣';
+    if (/corrida|maratona|run|sesi|terra da luz|track|polic/i.test(t)) return '🏃';
+    return '📸';
+  }
+
+  function isNew(text) {
+    const m = text.match(/(\d{2})[\/]{1,2}(\d{2})[\/]{1,2}(\d{4})/);
+    if (!m) return false;
+    return (Date.now() - new Date(`${m[3]}-${m[2]}-${m[1]}`).getTime()) < 7 * 864e5;
+  }
+
+  function extractDate(text) {
+    const m = text.match(/(\d{2})[\/]{1,2}(\d{2})[\/]{1,2}(\d{4})/);
+    return m ? `${m[1]}/${m[2]}/${m[3]}` : '';
+  }
+
+  function stripDate(text) {
+    return text.replace(/\s*[-\u2013]\s*\d{2}[\/]{1,2}\d{2}[\/]{1,2}\d{4}/, '').replace(/\s*-\s*$/, '').trim();
+  }
+
+  function render() {
+    const container = document.getElementById('linksContainer');
+
+    if (!window.LINKS_DATA || !window.LINKS_DATA.links || !window.LINKS_DATA.links.length) {
+      container.innerHTML = `
+        <div class="state-box">
+          <div class="state-icon">📂</div>
+          <p>Nenhum link carregado.<br><br>
+          Execute o script para atualizar:<br>
+          <code>python3 update_links.py</code></p>
+        </div>`;
+      return;
+    }
+
+    // Show updated at
+    if (window.LINKS_DATA.updated_at) {
+      document.getElementById('updatedAt').textContent = window.LINKS_DATA.updated_at;
+    }
+
+    container.innerHTML = window.LINKS_DATA.links.map(({ href, text }) => {
+      const icon  = getIcon(text);
+      const date  = extractDate(text);
+      const title = stripDate(text);
+      const novo  = isNew(text);
+      return `
+        <a class="link-btn" href="${href}" target="_blank" rel="noopener">
+          <div class="link-icon">${icon}</div>
+          <div class="link-body">
+            <div class="link-title">${title}</div>
+            ${date ? `<div class="link-date">${date}</div>` : ''}
+          </div>
+          <div class="link-right">
+            ${novo ? '<span class="badge-novo">novo</span>' : ''}
+            ${chevron}
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  async function hardRefresh() {
+    const btn = document.getElementById('btnRefresh');
+    btn.disabled = true;
+    btn.classList.add('spinning');
+
+    // Clear all browser caches
+    try {
+      if ('caches' in window) {
+        const keys = await caches.keys().catch(() => []);
+        await Promise.all(keys.map(k => caches.delete(k)));
+      }
+      if ('serviceWorker' in navigator) {
+        const regs = await navigator.serviceWorker.getRegistrations().catch(() => []);
+        await Promise.all(regs.map(r => r.unregister()));
+      }
+    } catch (_) {}
+
+    // Reload bypassing cache — links-data.js will be reloaded fresh
+    const url = new URL(location.href);
+    url.searchParams.set('v', Date.now());
+    location.replace(url.toString());
+  }
+
+  render();
+</script>
+</body>
+</html>
