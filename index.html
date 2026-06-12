@@ -190,9 +190,9 @@
 
   function getIcon(t) {
     t = t.toLowerCase();
-    if (t.includes('sabiaguaba'))                            return '🏄‍♂️';
+    if (t.includes('sabiaguaba'))                            return '🚴';
     if (t.includes('tarde') || t.includes('noite'))          return '🌆';
-    if (t.includes('beira mar'))                             return '🏖️';
+    if (t.includes('beira mar'))                             return '🏃';
     if (t.includes('lagoa') || t.includes('rio de janeiro')) return '🚣';
     if (/corrida|maratona|run|sesi|terra da luz|track|polic/i.test(t)) return '🏃';
     return '📸';
@@ -262,7 +262,7 @@
         await Promise.all(keys.map(k => caches.delete(k)));
       }
       if ('serviceWorker' in navigator) {
-        const regs = await navigator.serviceWorker.getRegistrations().catch(() => [])
+        const regs = await navigator.serviceWorker.getRegistrations().catch(() => []);
         await Promise.all(regs.map(r => r.unregister()));
       }
     } catch (_) {}
