@@ -141,6 +141,24 @@
     Receba os links no WhatsApp
   </a>
 
+  <!-- Fixed links -->
+  <div style="display:flex;flex-direction:column;gap:7px;width:100%;margin-bottom:20px;">
+    <a class="link-btn" href="https://fotopix.com.br/" target="_blank" rel="noopener">
+      <div class="link-icon">📷</div>
+      <div class="link-body">
+        <div class="link-title">Nossa Plataforma</div>
+      </div>
+      <div class="link-right"><svg class="link-chevron" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg></div>
+    </a>
+    <a class="link-btn" href="https://www.fotto.com.br/nicola.braga.marques" target="_blank" rel="noopener">
+      <div class="link-icon">🖼️</div>
+      <div class="link-body">
+        <div class="link-title">Nós da Fotto</div>
+      </div>
+      <div class="link-right"><svg class="link-chevron" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg></div>
+    </a>
+  </div>
+
   <!-- Section header -->
   <div class="section-header">
     <span class="section-label">Álbuns recentes</span>
@@ -180,10 +198,8 @@
     return '📸';
   }
 
-  function isNew(text) {
-    const m = text.match(/(\d{2})[\/]{1,2}(\d{2})[\/]{1,2}(\d{4})/);
-    if (!m) return false;
-    return (Date.now() - new Date(`${m[3]}-${m[2]}-${m[1]}`).getTime()) < 7 * 864e5;
+  function isNew(index) {
+    return index < 5;
   }
 
   function extractDate(text) {
@@ -192,7 +208,7 @@
   }
 
   function stripDate(text) {
-    return text.replace(/\s*[-\u2013]\s*\d{2}[\/]{1,2}\d{2}[\/]{1,2}\d{4}/, '').replace(/\s*-\s*$/, '').trim();
+    return text.replace(/\s*[-–]\s*\d{2}[\/]{1,2}\d{2}[\/]{1,2}\d{4}/, '').replace(/\s*-\s*$/, '').trim();
   }
 
   function render() {
@@ -214,11 +230,11 @@
       document.getElementById('updatedAt').textContent = window.LINKS_DATA.updated_at;
     }
 
-    container.innerHTML = window.LINKS_DATA.links.map(({ href, text }) => {
+    container.innerHTML = window.LINKS_DATA.links.slice(0, 30).map(({ href, text }, i) => {
       const icon  = getIcon(text);
       const date  = extractDate(text);
       const title = stripDate(text);
-      const novo  = isNew(text);
+      const novo  = isNew(i);
       return `
         <a class="link-btn" href="${href}" target="_blank" rel="noopener">
           <div class="link-icon">${icon}</div>
@@ -246,7 +262,7 @@
         await Promise.all(keys.map(k => caches.delete(k)));
       }
       if ('serviceWorker' in navigator) {
-        const regs = await navigator.serviceWorker.getRegistrations().catch(() => []);
+        const regs = await navigator.serviceWorker.getRegistrations().catch(() => [])
         await Promise.all(regs.map(r => r.unregister()));
       }
     } catch (_) {}
