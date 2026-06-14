@@ -112,6 +112,16 @@
     .social-link:hover { color: #fff; }
     .pix-info { font-size: 0.7rem; color: #3a3a3a; text-align: center; }
     .pix-key { color: #444; font-family: monospace; font-size: 0.67rem; word-break: break-all; }
+    .btn-copy-pix {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: #1a1a1a; border: 1px solid #2e2e2e; color: #aaa;
+      font-size: 0.65rem; font-weight: 600; padding: 3px 9px; border-radius: 20px;
+      cursor: pointer; font-family: inherit; margin-left: 6px;
+      transition: background 0.18s, color 0.18s, border-color 0.18s;
+      vertical-align: middle;
+    }
+    .btn-copy-pix:hover { background: #242424; border-color: #3a3a3a; color: #fff; }
+    .btn-copy-pix.copied { border-color: #25D366; color: #25D366; }
     .powered { font-size: 0.65rem; color: #2a2a2a; }
     .powered a { color: #3a3a3a; text-decoration: none; }
     .powered a:hover { color: #666; }
@@ -179,7 +189,10 @@
       <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
       @nicolabragafoto
     </a>
-    <div class="pix-info">Pix: <span class="pix-key">d38eda0f-0370-4bce-8823-95020e4b2d8e</span></div>
+    <div class="pix-info">
+      Pix: <span class="pix-key">d38eda0f-0370-4bce-8823-95020e4b2d8e</span>
+      <button class="btn-copy-pix" onclick="copyPix(this)" title="Copiar chave Pix">📋 Copiar</button>
+    </div>
     <div class="powered">fotos em <a href="https://fotopix.com.br" target="_blank" rel="noopener">fotopix.com.br</a></div>
   </div>
 
@@ -274,6 +287,18 @@
   }
 
   render();
+
+  function copyPix(btn) {
+    const key = 'd38eda0f-0370-4bce-8823-95020e4b2d8e';
+    navigator.clipboard.writeText(key).then(() => {
+      btn.textContent = '✓ Copiado!';
+      btn.classList.add('copied');
+      setTimeout(() => {
+        btn.innerHTML = '📋 Copiar';
+        btn.classList.remove('copied');
+      }, 2000);
+    });
+  }
 </script>
 </body>
 </html>
