@@ -1,8 +1,8 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 14/06/2026 14:00
+// Atualizado em: 14/06/2026 16:05
 window.LINKS_DATA = {
-  "updated_at": "14/06/2026 14:00",
+  "updated_at": "14/06/2026 16:05",
   "links": [
     {"href": "https://fotopix.com.br/album/2265ae", "text": "CE 010 - Fortaleza - 14/06/2026"},
     {"href": "https://fotopix.com.br/album/226456", "text": "Simulado Santitreinos - Fortaleza - 14/06/2026"},
@@ -21,7 +21,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/221cfd", "text": "Beira Mar - Fortaleza - 08/06/2026"},
     {"href": "https://fotopix.com.br/album/21ab23", "text": "Beira Mar - Fortaleza - 07/06/2026"},
     {"href": "https://fotopix.com.br/album/220538", "text": "Corrida do Vozao - CE- Fortaleza 07/06/2026"},
-    {"href": "https://fotopix.com.br/album/220530", "text": "3° Circuito Peter Pan - CE- Fortaleza 07/06/2026"},
+    {"href": "https://fotopix.com.br/album/220530", "text": "3Â° Circuito Peter Pan - CE- Fortaleza 07/06/2026"},
     {"href": "https://fotopix.com.br/album/21aaf5", "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/06/2026"},
     {"href": "https://fotopix.com.br/album/21aaf4", "text": "Beira Mar - Fortaleza - 06/06/2026"},
     {"href": "https://fotopix.com.br/album/21aa42", "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/06/2026"},
@@ -95,7 +95,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/201bb1", "text": "Beira Mar - Fortaleza - 04/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb1a8", "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb1a1", "text": "Beira Mar - Fortaleza - 03/05/2026"},
-    {"href": "https://fotopix.com.br/album/2004b7", "text": "3° CORRIDA DO CHOQUEANO - Fortaleza - 03/05/2026"},
+    {"href": "https://fotopix.com.br/album/2004b7", "text": "3Â° CORRIDA DO CHOQUEANO - Fortaleza - 03/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb1ac", "text": "21K TERRA DA LUZ - Fortaleza - 03/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb192", "text": "Beira Mar - Fortaleza - 02/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb18a", "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/05/2026"},
@@ -110,7 +110,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/1faa6b", "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/04/2026"},
     {"href": "https://fotopix.com.br/album/1fa9b8", "text": "Beira Mar - Fortaleza - 27/04/2026"},
     {"href": "https://fotopix.com.br/album/1f87fb", "text": "Beira Mar - Fortaleza - 26/04/2026"},
-    {"href": "https://fotopix.com.br/album/1f888d", "text": "Corrida da Construção - Fortaleza - 26/04/2026"},
+    {"href": "https://fotopix.com.br/album/1f888d", "text": "Corrida da ConstruÃ§Ã£o - Fortaleza - 26/04/2026"},
     {"href": "https://fotopix.com.br/album/1f8884", "text": "Track & Field Running TS Coco Bambu - Fortaleza - 26/04/2026"},
     {"href": "https://fotopix.com.br/album/1f887d", "text": "Corrida KF 22 Anos - Fortaleza - 26/04/2026"},
     {"href": "https://fotopix.com.br/album/1f6b20", "text": "Entre amigos - Fortaleza - 25/04/2026"},
@@ -129,7 +129,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/1f355c", "text": "Beira Mar - Fortaleza - 20/04/2026"},
     {"href": "https://fotopix.com.br/album/1ecc7b", "text": "Beira Mar - Tarde/Noite - Fortaleza - 19/04/2026"},
     {"href": "https://fotopix.com.br/album/1ecc4b", "text": "Beira Mar - Fortaleza - 19/04/2026"},
-    {"href": "https://fotopix.com.br/album/1ecc53", "text": "3ª CORRIDA POLÍCIA PENAL DO CEARÁ - Fortaleza - 19/04/2026"},
+    {"href": "https://fotopix.com.br/album/1ecc53", "text": "3Âª CORRIDA POLÃCIA PENAL DO CEARÃ - Fortaleza - 19/04/2026"},
     {"href": "https://fotopix.com.br/album/1ecc1f", "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/04/2026"},
     {"href": "https://fotopix.com.br/album/1ecc0f", "text": "Beira Mar - Fortaleza - 18/04/2026"},
     {"href": "https://fotopix.com.br/album/1ecbff", "text": "Beira Mar - Tarde/Noite - Fortaleza - 17/04/2026"},
@@ -175,7 +175,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/1e20ca", "text": "Beira Mar - Tarde/Noite - Fortaleza - 30/03/2026"},
     {"href": "https://fotopix.com.br/album/1e20c8", "text": "Beira Mar - Fortaleza - 30/03/2026"},
     {"href": "https://fotopix.com.br/album/1de7a1", "text": "Beira Mar - Fortaleza - 29/03/2026"},
-    {"href": "https://fotopix.com.br/album/1de7a9", "text": "ESTAÇÕES - OUTONO - 2026 - Fortaleza - 29/03/2026"},
+    {"href": "https://fotopix.com.br/album/1de7a9", "text": "ESTAÃÃES - OUTONO - 2026 - Fortaleza - 29/03/2026"},
     {"href": "https://fotopix.com.br/album/1de798", "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/03/2026"},
     {"href": "https://fotopix.com.br/album/1de795", "text": "Beira Mar - Fortaleza - 28/03/2026"},
     {"href": "https://fotopix.com.br/album/1ddee1", "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/03/2026"},
@@ -242,7 +242,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/1c4b10", "text": "Santander Track & Field Run Series - Del Paseo I - Fortaleza - 01/03/2026"},
     {"href": "https://fotopix.com.br/album/1c4afb", "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/02/2026"},
     {"href": "https://fotopix.com.br/album/1c4af9", "text": "Beira Mar - Fortaleza - 28/02/2026"},
-    {"href": "https://fotopix.com.br/album/1c744d", "text": "1ª etapa do Sprint Triathlon da FETRIECE - Cumbuco - 28/02/2026"},
+    {"href": "https://fotopix.com.br/album/1c744d", "text": "1Âª etapa do Sprint Triathlon da FETRIECE - Cumbuco - 28/02/2026"},
     {"href": "https://fotopix.com.br/album/1c4af0", "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/02/2026"},
     {"href": "https://fotopix.com.br/album/1c4aeb", "text": "Beira Mar - Fortaleza - 27/02/2026"},
     {"href": "https://fotopix.com.br/album/1c4aa2", "text": "Beira Mar - Tarde/Noite - Fortaleza - 26/02/2026"},
@@ -361,7 +361,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/1a949f", "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/01/2026"},
     {"href": "https://fotopix.com.br/album/1a9498", "text": "Beira Mar - Fortaleza - 12/01/2026"},
     {"href": "https://fotopix.com.br/album/1a50d2", "text": "Beira Mar - Fortaleza - 11/01/2026"},
-    {"href": "https://fotopix.com.br/album/1a9068", "text": "Porto Saúde Track & Field Experience Limiar IV! - Fortaleza - 11/01/2026"},
+    {"href": "https://fotopix.com.br/album/1a9068", "text": "Porto SaÃºde Track & Field Experience Limiar IV! - Fortaleza - 11/01/2026"},
     {"href": "https://fotopix.com.br/album/1a90bd", "text": "CE040 - Fortaleza - 11/01/2026"},
     {"href": "https://fotopix.com.br/album/1a50d0", "text": "Beira Mar - Fortaleza - 10/01/2026"},
     {"href": "https://fotopix.com.br/album/1a50c1", "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/01/2026"},
