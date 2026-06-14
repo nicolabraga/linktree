@@ -169,7 +169,7 @@
       <div class="link-right"><svg class="link-chevron" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg></div>
     </a>
     <a class="link-btn" href="https://www.fotto.com.br/nicola.braga.marques" target="_blank" rel="noopener">
-      <div class="link-icon">ğŸ–¼îï</div>
+      <div class="link-icon">ğŸ</div>
       <div class="link-body">
         <div class="link-title">NÃ³s da Fotto</div>
       </div>
@@ -213,7 +213,7 @@
     t = t.toLowerCase();
     if (t.includes('sabiaguaba'))                            return 'ğŸš´';
     if (t.includes('tarde') || t.includes('noite'))          return 'ğŸŒ†';
-    if (t.includes('beira mar'))                             return 'ğƒŸ';
+    if (t.includes('beira mar'))                             return 'ğŸŒŠ';
     if (t.includes('lagoa') || t.includes('rio de janeiro')) return 'ğŸš£';
     if (/corrida|maratona|run|sesi|terra da luz|track|polic/i.test(t)) return 'ğŸƒ';
     return 'ğŸ“¸';
@@ -238,7 +238,7 @@
     if (!window.LINKS_DATA || !window.LINKS_DATA.links || !window.LINKS_DATA.links.length) {
       container.innerHTML = `
         <div class="state-box">
-          <div class="state-icon">ğŸ“B</div>
+          <div class="state-icon">ï¿½B</div>
           <p>Nenhum link carregado.<br><br>
           Execute o script para atualizar:<br>
           <code>python3 update_links.py</code></p>
@@ -307,7 +307,7 @@
   function copyPix(btn) {
     const key = 'd38eda0f-0370-4bce-8823-95020e4b2d8e';
     navigator.clipboard.writeText(key).then(() => {
-      btn.textContent = 'âœ“ ƒopiado!';
+      btn.textContent = 'âœ“ ï¿½opiado!';
       btn.classList.add('copied');
       setTimeout(() => {
         btn.innerHTML = 'ğŸ“‹ Copiar';
