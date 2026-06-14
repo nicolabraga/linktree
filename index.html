@@ -8,7 +8,15 @@
   <meta property="og:title" content="nicolabragafoto" />
   <meta property="og:image" content="https://img.linkme.bio/img/2025/12/11203119/9C6A5411menor.jpg" />
   <!-- Links atualizados por update_links.py -->
-  <script src="links-data.js"></script>
+  <script src="links-data.js" onerror="loadRemote()"></script>
+  <script>
+    function loadRemote() {
+      var s = document.createElement('script');
+      s.src = 'https://cdn.jsdelivr.net/gh/Nicolabraga/linktree@main/links-data.js';
+      s.onload = function() { if(typeof render==='function') render(); };
+      document.head.appendChild(s);
+    }
+  </script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -103,7 +111,7 @@
     /* ── No data state ── */
     .state-box { width: 100%; padding: 28px 16px; text-align: center; border-radius: 12px; background: #141414; border: 1px solid #1f1f1f; }
     .state-box .state-icon { font-size: 2rem; margin-bottom: 10px; }
-    .state-box p { font-size: 0.85rem; color: #666; line-height: 1.5; }
+    .state-box .box p { font-size: 0.85rem; color: #666; line-height: 1.5; }
     .state-box code { font-size: 0.8rem; background: #1e1e1e; padding: 2px 6px; border-radius: 4px; color: #f59e0b; }
 
     /* ── Footer ── */
@@ -146,7 +154,7 @@
   <div class="divider"></div>
 
   <!-- WhatsApp -->
-  <a class="btn-whatsapp" href="https://chat.whatsapp.com/DKN5T3EguFgIU9tonK9Pxn" target="_blank" rel="noopener">
+  <a class="btn-whatsapp" href="https://chat.whatsapp.com/DKN5T3EguFgIU9tonK9Pen" target="_blank" rel="noopener">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
     Receba os links no WhatsApp
   </a>
@@ -161,7 +169,7 @@
       <div class="link-right"><svg class="link-chevron" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg></div>
     </a>
     <a class="link-btn" href="https://www.fotto.com.br/nicola.braga.marques" target="_blank" rel="noopener">
-      <div class="link-icon">🖼️</div>
+      <div class="link-icon">🖼��</div>
       <div class="link-body">
         <div class="link-title">Nós da Fotto</div>
       </div>
@@ -205,7 +213,7 @@
     t = t.toLowerCase();
     if (t.includes('sabiaguaba'))                            return '🚴';
     if (t.includes('tarde') || t.includes('noite'))          return '🌆';
-    if (t.includes('beira mar'))                             return '🏃';
+    if (t.includes('beira mar'))                             return '�����';
     if (t.includes('lagoa') || t.includes('rio de janeiro')) return '🚣';
     if (/corrida|maratona|run|sesi|terra da luz|track|polic/i.test(t)) return '🏃';
     return '📸';
@@ -230,7 +238,7 @@
     if (!window.LINKS_DATA || !window.LINKS_DATA.links || !window.LINKS_DATA.links.length) {
       container.innerHTML = `
         <div class="state-box">
-          <div class="state-icon">📂</div>
+          <div class="state-icon">�B</div>
           <p>Nenhum link carregado.<br><br>
           Execute o script para atualizar:<br>
           <code>python3 update_links.py</code></p>
@@ -243,7 +251,17 @@
       document.getElementById('updatedAt').textContent = window.LINKS_DATA.updated_at;
     }
 
-    container.innerHTML = window.LINKS_DATA.links.slice(0, 30).map(({ href, text }, i) => {
+    const sevenDaysAgo = new Date();
+    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+
+    const filtered = window.LINKS_DATA.links.filter(({ text }) => {
+      const m = text.match(/(\d{2})[\/](\d{2})[\/](\d{4})/);
+      if (!m) return false;
+      const d = new Date(+m[3], +m[2] - 1, +m[1]);
+      return d >= sevenDaysAgo;
+    });
+
+    container.innerHTML = filtered.map(({ href, text }, i) => {
       const icon  = getIcon(text);
       const date  = extractDate(text);
       const title = stripDate(text);
@@ -268,7 +286,6 @@
     btn.disabled = true;
     btn.classList.add('spinning');
 
-    // Clear all browser caches
     try {
       if ('caches' in window) {
         const keys = await caches.keys().catch(() => []);
@@ -280,7 +297,6 @@
       }
     } catch (_) {}
 
-    // Reload bypassing cache — links-data.js will be reloaded fresh
     const url = new URL(location.href);
     url.searchParams.set('v', Date.now());
     location.replace(url.toString());
@@ -291,7 +307,7 @@
   function copyPix(btn) {
     const key = 'd38eda0f-0370-4bce-8823-95020e4b2d8e';
     navigator.clipboard.writeText(key).then(() => {
-      btn.textContent = '✓ Copiado!';
+      btn.textContent = '✓ �opiado!';
       btn.classList.add('copied');
       setTimeout(() => {
         btn.innerHTML = '📋 Copiar';
