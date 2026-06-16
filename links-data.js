@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 16/06/2026 11:34
+// Atualizado em: 16/06/2026 17:00
 window.LINKS_DATA = {
-  "updated_at": "16/06/2026 11:34",
+  "updated_at": "16/06/2026 17:00",
   "links": [
+    {"href": "https://fotopix.com.br/album/226bc7", "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/06/2026"},
     {"href": "https://fotopix.com.br/album/226bc0", "text": "Beira Mar - Fortaleza - 16/06/2026"},
     {"href": "https://fotopix.com.br/album/226bbb", "text": "Sabiaguaba - Fortaleza - 16/06/2026"},
     {"href": "https://fotopix.com.br/album/226b8e", "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/06/2026"},
@@ -102,7 +103,7 @@ window.LINKS_DATA = {
     {"href": "https://fotopix.com.br/album/2004b7", "text": "3° CORRIDA DO CHOQUEANO - Fortaleza - 03/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb1ac", "text": "21K TERRA DA LUZ - Fortaleza - 03/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb192", "text": "Beira Mar - Fortaleza - 02/05/2026"},
-    {"href": "https://fotopix.com.br/album/1fb18h", "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/05/2026"},
+    {"href": "https://fotopix.com.br/album/1fb18a", "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/05/2026"},
     {"href": "https://fotopix.com.br/album/1fb187", "text": "Beira Mar - Fortaleza - 01/05/2026"},
     {"href": "https://fotopix.com.br/album/1fd6cd", "text": "CORRIDA NACIONAL DO SESI - Fortaleza - 01/05/2026"},
     {"href": "https://fotopix.com.br/album/1fab5a", "text": "Beira Mar - Fortaleza - 30/04/2026"},
