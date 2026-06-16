@@ -13,7 +13,8 @@ import datetime
 import time
 
 FOTOGRAFO_ID = 292380
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "links-data.js")
+OUTPUT_JS   = os.path.join(os.path.dirname(__file__), "links-data.js")
+OUTPUT_HTML = os.path.join(os.path.dirname(__file__), "index.html")
 MONTHS_TO_FETCH = 6  # busca os últimos N meses
 
 HEADERS = {
@@ -104,18 +105,36 @@ def main():
         return
 
     updated_at = now.strftime("%d/%m/%Y %H:%M")
-    content = (
+    js_block = (
         "// Gerado automaticamente por update_links.py\n"
         "// Fonte: https://fotopix.com.br/\n"
         f"// Atualizado em: {updated_at}\n"
         "window.LINKS_DATA = "
         + json.dumps({"updated_at": updated_at, "links": links}, ensure_ascii=False, indent=2)
-        + ";\n"
+        + ";"
     )
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(content)
 
-    print(f"\n✓ {len(links)} links salvos em links-data.js")
+    # Salva links-data.js (backup)
+    with open(OUTPUT_JS, "w", encoding="utf-8") as f:
+        f.write(js_block + "\n")
+
+    # Atualiza index.html — substitui o bloco entre os marcadores
+    with open(OUTPUT_HTML, "r", encoding="utf-8") as f:
+        html = f.read()
+
+    import re as _re
+    new_block = f"  <!-- LINKS_DATA_START -->\n  <script>\n{js_block}\n  </script>\n  <!-- LINKS_DATA_END -->"
+    html = _re.sub(
+        r'<!-- LINKS_DATA_START -->.*?<!-- LINKS_DATA_END -->',
+        new_block,
+        html,
+        flags=_re.DOTALL,
+    )
+
+    with open(OUTPUT_HTML, "w", encoding="utf-8") as f:
+        f.write(html)
+
+    print(f"\n✓ {len(links)} links salvos em links-data.js e index.html")
 
 
 if __name__ == "__main__":
