@@ -1,1548 +1,420 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 17/06/2026 07:56
+// Atualizado em: 17/06/2026 08:32
 window.LINKS_DATA = {
-  "updated_at": "17/06/2026 07:56",
+  "updated_at": "17/06/2026 08:32",
   "links": [
-    {
-        "href": "https://fotopix.com.br/album/226bcd",
-        "text": "Beira Mar - Fortaleza - 17/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/226bc7",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/226bc0",
-        "text": "Beira Mar - Fortaleza - 16/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/226bbb",
-        "text": "Sabiaguaba - Fortaleza - 16/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/226b8e",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/226b86",
-        "text": "Beira Mar - Fortaleza - 15/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d22",
-        "text": "Beira Mar - Fortaleza - 14/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2265ae",
-        "text": "CE 010 - Fortaleza - 14/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/226456",
-        "text": "Simulado Santitreinos - Fortaleza - 14/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d1f",
-        "text": "Beira Mar - Fortaleza - 13/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d1e",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d1d",
-        "text": "Beira Mar - Fortaleza - 12/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d12",
-        "text": "Beira Mar - Fortaleza - 11/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d11",
-        "text": "Sabiaguaba - Fortaleza - 11/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d0d",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 10/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d0c",
-        "text": "Beira Mar - Fortaleza - 10/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d09",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d06",
-        "text": "Beira Mar - Fortaleza - 09/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d04",
-        "text": "Sabiaguaba - Fortaleza - 09/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221d03",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 08/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/221cfd",
-        "text": "Beira Mar - Fortaleza - 08/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21ab23",
-        "text": "Beira Mar - Fortaleza - 07/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/220538",
-        "text": "Corrida do Vozao - CE- Fortaleza 07/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/220530",
-        "text": "3° Circuito Peter Pan - CE- Fortaleza 07/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aaf5",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aaf4",
-        "text": "Beira Mar - Fortaleza - 06/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa42",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa41",
-        "text": "Beira Mar - Fortaleza - 05/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aadf",
-        "text": "Lagoa Rodrigo de freitas - Rio de Janeiro - 05/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa28",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa26",
-        "text": "Beira Mar - Fortaleza - 04/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa1b",
-        "text": "Sabiaguaba - Fortaleza - 04/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa17",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa12",
-        "text": "Beira Mar - Fortaleza - 03/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21aa08",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 02/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21a9f8",
-        "text": "Beira Mar - Fortaleza - 02/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21a9f3",
-        "text": "Sabiaguaba - Fortaleza - 02/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21a9eb",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21a95f",
-        "text": "Beira Mar - Fortaleza - 01/06/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21392e",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 31/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/213929",
-        "text": "Beira Mar - Fortaleza - 31/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/213938",
-        "text": "Corrida Pague Menos - CE- Fortaleza 31/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/218f07",
-        "text": "Corrida Pague Menos - KIDS - CE- Fortaleza 30/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21391c",
-        "text": "Beira Mar - Fortaleza - 30/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21391a",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 29/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/21390a",
-        "text": "Beira Mar - Fortaleza - 29/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/213905",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138fe",
-        "text": "Beira Mar - Fortaleza - 28/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138fc",
-        "text": "Sabiaguaba - Fortaleza - 28/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138f5",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138f1",
-        "text": "Beira Mar - Fortaleza - 27/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138eb",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 26/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138e5",
-        "text": "Beira Mar - Fortaleza - 26/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138e1",
-        "text": "Sabiaguaba - Fortaleza - 26/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138dc",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 25/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2138ca",
-        "text": "Beira Mar - Fortaleza - 25/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20daf7",
-        "text": "Beira Mar - Fortaleza - 24/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2131f3",
-        "text": "DESAFIO VERTICAL CE - Cumbuco - 24/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/212a81",
-        "text": "Sun Day Run Fortaleza - CE- Fortaleza 24/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dae6",
-        "text": "Beira Mar - Fortaleza - 23/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dadd",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 22/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dad8",
-        "text": "Beira Mar - Fortaleza - 22/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dad1",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 21/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dac9",
-        "text": "Beira Mar - Fortaleza - 21/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dac3",
-        "text": "Sabiaguaba - Fortaleza - 21/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dabb",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 20/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20dab2",
-        "text": "Beira Mar - Fortaleza - 20/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20da95",
-        "text": "Beira Mar - Fortaleza - 19/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20da8f",
-        "text": "Sabiaguaba - Fortaleza - 19/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20da84",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20da61",
-        "text": "Beira Mar - Fortaleza - 18/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208c78",
-        "text": "Track &amp; Field Run Series RioMar - Fortaleza 17/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208c08",
-        "text": "Beira Mar - Fortaleza - 16/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208c03",
-        "text": "Beira Mar - Fortaleza - 15/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208bfc",
-        "text": "Beira Mar - Fortaleza - 14/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208bff",
-        "text": "Sabiaguaba - Fortaleza - 14/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208bfb",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 13/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/208bc1",
-        "text": "Beira Mar - Fortaleza - 13/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20852e",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20852b",
-        "text": "Beira Mar - Fortaleza - 12/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2077a8",
-        "text": "Sabiaguaba - Fortaleza - 12/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2077a3",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 11/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/20779e",
-        "text": "Beira Mar - Fortaleza - 11/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/202f4b",
-        "text": "Beira Mar - Fortaleza - 10/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/206a99",
-        "text": "CORRIDA DA POLICIA CIVIL - 218 ANOS - Fortaleza 10/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/202f40",
-        "text": "Beira Mar - Fortaleza - 09/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/202f3a",
-        "text": "Beira Mar - Fortaleza - 08/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/202f31",
-        "text": "Beira Mar - Fortaleza - 07/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/202f2d",
-        "text": "Sabiaguaba - Fortaleza - 07/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/202f2a",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2027bb",
-        "text": "Beira Mar - Fortaleza - 06/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2027b8",
-        "text": "Beira Mar - Fortaleza - 05/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2027b7",
-        "text": "Sabiaguaba - Fortaleza - 05/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/201bb3",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/201bb1",
-        "text": "Beira Mar - Fortaleza - 04/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fb1a8",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fb1a1",
-        "text": "Beira Mar - Fortaleza - 03/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/2004b7",
-        "text": "3° CORRIDA DO CHOQUEANO - Fortaleza - 03/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fb1ac",
-        "text": "21K TERRA DA LUZ - Fortaleza - 03/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fb192",
-        "text": "Beira Mar - Fortaleza - 02/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fb18a",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fb187",
-        "text": "Beira Mar - Fortaleza - 01/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fd6cd",
-        "text": "CORRIDA NACIONAL DO SESI - Fortaleza - 01/05/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fab5a",
-        "text": "Beira Mar - Fortaleza - 30/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fab52",
-        "text": "Sabiaguaba - Fortaleza - 30/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fab47",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 29/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fab40",
-        "text": "Beira Mar - Fortaleza - 29/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fab38",
-        "text": "Beira Mar - Fortaleza - 28/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1faa7a",
-        "text": "Sabiaguaba - Fortaleza - 28/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1faa6b",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1fa9b8",
-        "text": "Beira Mar - Fortaleza - 27/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f87fb",
-        "text": "Beira Mar - Fortaleza - 26/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f888d",
-        "text": "Corrida da Construção - Fortaleza - 26/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f8884",
-        "text": "Track &amp; Field Running TS Coco Bambu - Fortaleza - 26/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f887d",
-        "text": "Corrida KF 22 Anos - Fortaleza - 26/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6b20",
-        "text": "Entre amigos - Fortaleza - 25/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6b1c",
-        "text": "Beira Mar - Fortaleza - 25/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f7bf4",
-        "text": "CABRA DA PESTE - Fortaleza - 25//04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6b08",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 24/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6aff",
-        "text": "Beira Mar - Fortaleza - 24/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6ae9",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 23/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6547",
-        "text": "Beira Mar - Fortaleza - 23/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f6548",
-        "text": "Sabiaguaba - Fortaleza - 23/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f5e52",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 22/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f54d3",
-        "text": "Beira Mar - Fortaleza - 22/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f3577",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 21/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f3572",
-        "text": "Beira Mar - Fortaleza - 21/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f356c",
-        "text": "Sabiaguaba - Fortaleza -21/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1f355c",
-        "text": "Beira Mar - Fortaleza - 20/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecc7b",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 19/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecc4b",
-        "text": "Beira Mar - Fortaleza - 19/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecc53",
-        "text": "3ª CORRIDA POLÍCIA PENAL DO CEARÁ - Fortaleza - 19//04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecc1f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecc0f",
-        "text": "Beira Mar - Fortaleza - 18/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecbff",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 17/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecbf5",
-        "text": "Beira Mar - Fortaleza - 17/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecbef",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecbac",
-        "text": "Beira Mar - Fortaleza - 16/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecb99",
-        "text": "Sabiaguaba - Fortaleza -16/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecb62",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecb58",
-        "text": "Beira Mar - Fortaleza - 15/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecb13",
-        "text": "Beira Mar - Fortaleza - 14/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecb05",
-        "text": "Sabiaguaba - Fortaleza -14/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ecae6",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 13/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ec9c7",
-        "text": "Beira Mar - Fortaleza - 13/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ec259",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e8d30",
-        "text": "MARATONA INTERNACIONAL DE FORTALEZA - 12//04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e8d2f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 11/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e8d2e",
-        "text": "Beira Mar - Fortaleza - 11/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e8d2b",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 10/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e8d2a",
-        "text": "Beira Mar - Fortaleza - 10/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e8d29",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e6d7c",
-        "text": "Beira Mar - Fortaleza - 09/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e6d66",
-        "text": "Sabiaguaba - Fortaleza -09/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e6d5c",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 08/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e6d52",
-        "text": "Beira Mar - Fortaleza - 08/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e6d4a",
-        "text": "Beira Mar - Fortaleza - 07/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e6d41",
-        "text": "Sabiaguaba - Fortaleza -07/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e68c1",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e68bb",
-        "text": "Beira Mar - Fortaleza - 06/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e40a8",
-        "text": "Beira Mar - Fortaleza - 05/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e40a7",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e40a6",
-        "text": "Beira Mar - Fortaleza - 04/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e40a5",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e40a4",
-        "text": "Beira Mar - Fortaleza - 03/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e3ae6",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 02/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e3ae4",
-        "text": "Beira Mar - Fortaleza - 02/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e3ae2",
-        "text": "Sabiaguaba - Fortaleza -02/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e40eb",
-        "text": "Ibiratemi - Fortaleza - 02/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e2e64",
-        "text": "Beira Mar - Fortaleza - 01/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e2e65",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/04/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e2b3c",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 31/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e2b39",
-        "text": "Beira Mar - Fortaleza - 31/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e2b3f",
-        "text": "Sabiaguaba - Fortaleza -31/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e20ca",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 30/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1e20c8",
-        "text": "Beira Mar - Fortaleza - 30/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1de7a1",
-        "text": "Beira Mar - Fortaleza - 29/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1de7a9",
-        "text": "ESTAÇÕES - OUTONO - 2026 - Fortaleza - 29//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1de798",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1de795",
-        "text": "Beira Mar - Fortaleza - 28/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ddee1",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1ddee0",
-        "text": "Beira Mar - Fortaleza - 27/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dda6f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 26/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dda6c",
-        "text": "Beira Mar - Fortaleza - 26/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dda6e",
-        "text": "Sabiaguaba - Fortaleza -26/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dd23f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 25/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dcbe2",
-        "text": "Beira Mar - Fortaleza - 25/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dcbca",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 24/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dbf71",
-        "text": "Beira Mar - Fortaleza - 24//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dcbe6",
-        "text": "CORRIDA 100% - 2026 - Fortaleza - 25//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1dbf66",
-        "text": "Sabiaguaba - Fortaleza -24/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1db2cc",
-        "text": "Beira Mar - Fortaleza - 23//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1db303",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 23/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc19f",
-        "text": "Beira Mar - Fortaleza - 22//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc194",
-        "text": "Beira Mar - Fortaleza - 21//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc191",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 20/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc18f",
-        "text": "Beira Mar - Fortaleza - 20//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc18d",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 19/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc18b",
-        "text": "Beira Mar - Fortaleza - 19//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc188",
-        "text": "Ibiratemi - Fortaleza - 19/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc187",
-        "text": "Sabiaguaba - Fortaleza - 19/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc186",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc181",
-        "text": "Beira Mar - Fortaleza - 18//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc17e",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 17/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc177",
-        "text": "Beira Mar - Fortaleza - 17//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc16d",
-        "text": "Sabiaguaba - Fortaleza - 17/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc16a",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc165",
-        "text": "Beira Mar - Fortaleza - 16//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc153",
-        "text": "LIVE! RUN XP - FORTALEZA 2026 - Fortaleza - 15//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc149",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 14/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc147",
-        "text": "Beira Mar - Fortaleza - 14//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc141",
-        "text": "Beira Mar - Fortaleza - 13//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc12e",
-        "text": "Beira Mar - Fortaleza - 12//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc127",
-        "text": "Sabiaguaba - Fortaleza - 12/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc12b",
-        "text": "Ibiratemi - Fortaleza - 12/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc125",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 11/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc123",
-        "text": "Beira Mar - Fortaleza - 11//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc11f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 10/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc11d",
-        "text": "Beira Mar - Fortaleza - 10//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc11b",
-        "text": "Ibiratemi - Fortaleza - 10/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc115",
-        "text": "Sabiaguaba - Fortaleza - 10/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc113",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1cc10e",
-        "text": "Beira Mar - Fortaleza - 09//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9bb1",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 08/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9baa",
-        "text": "Beira Mar - Fortaleza - 08/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b9d",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 07/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b99",
-        "text": "Beira Mar - Fortaleza - 07//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b97",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b92",
-        "text": "Beira Mar - Fortaleza - 06/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b8c",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b89",
-        "text": "Beira Mar - Fortaleza - 05//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b7f",
-        "text": "Sabiaguaba - Fortaleza - 05/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b78",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b6f",
-        "text": "Beira Mar - Fortaleza - 04//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b5b",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b50",
-        "text": "Beira Mar - Fortaleza - 03//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b37",
-        "text": "Ibiratemi - Fortaleza - 03/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b2c",
-        "text": "Sabiaguaba - Fortaleza - 03/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9b11",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 02/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c9adf",
-        "text": "Beira Mar - Fortaleza - 02//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4b09",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4b10",
-        "text": "Santander Track&amp;Field Run Series - Del Paseo I - Fortaleza - 01//03/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4afb",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4af9",
-        "text": "Beira Mar - Fortaleza - 28//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c744d",
-        "text": "1ª etapa do Sprint Triathlon da FETRIECE - Cumbuco - 28//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4af0",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4aeb",
-        "text": "Beira Mar - Fortaleza - 27//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4aa2",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 26/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4aa1",
-        "text": "Beira Mar - Fortaleza - 26//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4a9b",
-        "text": "Sabiaguaba - Fortaleza - 26/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4a8a",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 25/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4a71",
-        "text": "Beira Mar - Fortaleza - 25//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c4a20",
-        "text": "Beira Mar - Fortaleza - 24//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c49f7",
-        "text": "Ibiratemi - Fortaleza - 24/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c49d7",
-        "text": "Sabiaguaba - Fortaleza - 24/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c49ca",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 23/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c499b",
-        "text": "Beira Mar - Fortaleza - 23//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc1b",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 22/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc1a",
-        "text": "Beira Mar - Fortaleza - 22//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc16",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 21/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc15",
-        "text": "Beira Mar - Fortaleza - 21//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c29f1",
-        "text": "Sabiaguaba - Fortaleza - 21/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c25b4",
-        "text": "W Soares - Fortaleza - 21/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc13",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 20/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc12",
-        "text": "Beira Mar - Fortaleza - 20//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc11",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 19/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc07",
-        "text": "Beira Mar - Fortaleza - 19//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc2e",
-        "text": "Ibiratemi - Fortaleza - 19/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfc01",
-        "text": "Sabiaguaba - Fortaleza - 19/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfbfe",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfbfb",
-        "text": "Beira Mar - Fortaleza - 18//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfbf7",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 17/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfbf3",
-        "text": "Beira Mar - Fortaleza - 17//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c0d67",
-        "text": "Ibiratemi - Fortaleza - 17/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1c0d54",
-        "text": "Sabiaguaba - Fortaleza - 17/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfbec",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bfbe8",
-        "text": "Beira Mar - Fortaleza - 16//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb90d",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb909",
-        "text": "Beira Mar - Fortaleza - 15//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8ff",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 14/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8fd",
-        "text": "Beira Mar - Fortaleza - 14//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8f9",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 13/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8f8",
-        "text": "Beira Mar - Fortaleza - 13/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8f0",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8ef",
-        "text": "Beira Mar - Fortaleza - 12//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8eb",
-        "text": "Ibiratemi - Fortaleza - 12/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8e8",
-        "text": "Sabiaguaba - Fortaleza - 12/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8e1",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 11/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8dc",
-        "text": "Beira Mar - Fortaleza - 11//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8da",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 10/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8d8",
-        "text": "Beira Mar - Fortaleza - 10//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8cd",
-        "text": "Ibiratemi - Fortaleza - 10/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb8b7",
-        "text": "Sabiaguaba - Fortaleza - 10/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb882",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1bb87c",
-        "text": "Beira Mar - Fortaleza - 09//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8b74",
-        "text": "Beira Mar - Fortaleza - 08//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8b6c",
-        "text": "Beira Mar - Fortaleza - 07//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8b67",
-        "text": "Beira Mar - Fortaleza - 06//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8727",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8726",
-        "text": "Beira Mar - Fortaleza - 05//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8725",
-        "text": "Ibiratemi - Fortaleza - 05/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8723",
-        "text": "Sabiaguaba - Fortaleza - 05/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b8722",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b871f",
-        "text": "Beira Mar - Fortaleza - 04//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b6fa0",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b6f9b",
-        "text": "Beira Mar - Fortaleza - 03//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b6f91",
-        "text": "Ibiratemi - Fortaleza - 03/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b6f90",
-        "text": "Sabiaguaba - Fortaleza - 03/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b6f89",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 02/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b6f7f",
-        "text": "Beira Mar - Fortaleza - 02//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3459",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3455",
-        "text": "Beira Mar - Fortaleza - 01//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b345f",
-        "text": "Meia Maratona Revezamento de Verao - Fortaleza - 01//02/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b344f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 31/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b344a",
-        "text": "Beira Mar - Fortaleza - 31//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3443",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 30/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b343e",
-        "text": "Beira Mar - Fortaleza - 30//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3437",
-        "text": "Beira Mar - Fortaleza - 29//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3434",
-        "text": "Ibiratemi - Fortaleza - 29/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b342e",
-        "text": "Sabiaguaba - Fortaleza - 29/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b342d",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3427",
-        "text": "Beira Mar - Fortaleza - 28//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b33ea",
-        "text": "Beira Mar - Fortaleza - 27//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b33e6",
-        "text": "Ibiratemi - Fortaleza - 27/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b33e2",
-        "text": "Sabiaguaba - Fortaleza - 27/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b3231",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 26/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b30b5",
-        "text": "Beira Mar - Fortaleza - 26//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b0424",
-        "text": "Beira Mar - Fortaleza - 25//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b1f70",
-        "text": "CIRCUITO SESC DE CORRIDAS - Fortaleza - 25//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b0421",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 24/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b041e",
-        "text": "Beira Mar - Fortaleza - 24//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1b041a",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 23/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee5c",
-        "text": "Beira Mar - Fortaleza - 23//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee5b",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 22/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee5a",
-        "text": "Beira Mar - Fortaleza - 22//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee57",
-        "text": "Ibiratemi - Fortaleza - 22/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee52",
-        "text": "Sabiaguaba - Fortaleza - 22/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee51",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 21/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee4d",
-        "text": "Beira Mar - Fortaleza - 21//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee2b",
-        "text": "Beira Mar - Fortaleza - 20//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee2e",
-        "text": "Ibiratemi - Fortaleza - 20/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1aee2c",
-        "text": "Sabiaguaba - Fortaleza - 20/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94fa",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 19/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94f6",
-        "text": "Beira Mar - Fortaleza - 19//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94f3",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94ef",
-        "text": "Beira Mar - Fortaleza - 18//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94e6",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 17/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94df",
-        "text": "Beira Mar - Fortaleza - 17//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94dc",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94d9",
-        "text": "Beira Mar - Fortaleza - 16//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94d4",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94d2",
-        "text": "Beira Mar - Fortaleza - 15//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94ce",
-        "text": "Ibiratemi - Fortaleza - 15/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94c8",
-        "text": "Sabiaguaba - Fortaleza - 15/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94be",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 14/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94bc",
-        "text": "Beira Mar - Fortaleza - 14//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94b4",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 13/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94b1",
-        "text": "Beira Mar - Fortaleza - 13//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94ab",
-        "text": "Ibiratemi - Fortaleza - 13/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a94a2",
-        "text": "Sabiaguaba - Fortaleza - 13/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a949f",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a9498",
-        "text": "Beira Mar - Fortaleza - 12//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50d2",
-        "text": "Beira Mar - Fortaleza - 11//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a9068",
-        "text": "Porto Saúde Track &amp; Field Experience Limiar IV! - Fortaleza - 11//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a90bd",
-        "text": "CE040 - Fortaleza - 11/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50d0",
-        "text": "Beira Mar - Fortaleza - 10//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50c1",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50c0",
-        "text": "Beira Mar - Fortaleza - 09//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50bf",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 08/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50be",
-        "text": "Beira Mar - Fortaleza - 08//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50bd",
-        "text": "Ibiratemi - Fortaleza - 08/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50bb",
-        "text": "Sabiaguaba - Fortaleza - 08/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50ba",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 07/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50b9",
-        "text": "Beira Mar - Fortaleza - 07//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50b2",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50b1",
-        "text": "Beira Mar - Fortaleza - 06//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50b3",
-        "text": "Ibiratemi - Fortaleza - 06/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50b0",
-        "text": "Sabiaguaba - Fortaleza - 06/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50af",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50ae",
-        "text": "Beira Mar - Fortaleza - 05//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50ac",
-        "text": "Beira Mar - Fortaleza - 04//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50a8",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50a7",
-        "text": "Beira Mar - Fortaleza - 03//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50a4",
-        "text": "Beira Mar - Fortaleza - 02//01/2026"
-    },
-    {
-        "href": "https://fotopix.com.br/album/1a50a2",
-        "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/01/2026"
-    }
+  {
+    "href": "https://fotopix.com.br/album/226bcd",
+    "text": "Beira Mar - Fortaleza - 17/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226bc7",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226bc0",
+    "text": "Beira Mar - Fortaleza - 16/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226bbb",
+    "text": "Sabiaguaba - Fortaleza - 16/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226b8e",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226b86",
+    "text": "Beira Mar - Fortaleza - 15/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d22",
+    "text": "Beira Mar - Fortaleza - 14/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2265ae",
+    "text": "CE 010 - Fortaleza - 14/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226456",
+    "text": "Simulado Santitreinos - Fortaleza - 14/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d1f",
+    "text": "Beira Mar - Fortaleza - 13/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d1e",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d1d",
+    "text": "Beira Mar - Fortaleza - 12/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d12",
+    "text": "Beira Mar - Fortaleza - 11/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d11",
+    "text": "Sabiaguaba - Fortaleza - 11/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d0d",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 10/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d0c",
+    "text": "Beira Mar - Fortaleza - 10/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d09",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 09/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d06",
+    "text": "Beira Mar - Fortaleza - 09/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d04",
+    "text": "Sabiaguaba - Fortaleza - 09/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221d03",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 08/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/221cfd",
+    "text": "Beira Mar - Fortaleza - 08/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21ab23",
+    "text": "Beira Mar - Fortaleza - 07/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/220538",
+    "text": "Corrida do Vozao - CE- Fortaleza 07/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/220530",
+    "text": "3° Circuito Peter Pan - CE- Fortaleza 07/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aaf5",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aaf4",
+    "text": "Beira Mar - Fortaleza - 06/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa42",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa41",
+    "text": "Beira Mar - Fortaleza - 05/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aadf",
+    "text": "Lagoa Rodrigo de freitas - Rio de Janeiro - 05/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa28",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa26",
+    "text": "Beira Mar - Fortaleza - 04/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa1b",
+    "text": "Sabiaguaba - Fortaleza - 04/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa17",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa12",
+    "text": "Beira Mar - Fortaleza - 03/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21aa08",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 02/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21a9f8",
+    "text": "Beira Mar - Fortaleza - 02/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21a9f3",
+    "text": "Sabiaguaba - Fortaleza - 02/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21a9eb",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21a95f",
+    "text": "Beira Mar - Fortaleza - 01/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21392e",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 31/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/213929",
+    "text": "Beira Mar - Fortaleza - 31/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/213938",
+    "text": "Corrida Pague Menos - CE- Fortaleza 31/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/218f07",
+    "text": "Corrida Pague Menos - KIDS - CE- Fortaleza 30/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21391c",
+    "text": "Beira Mar - Fortaleza - 30/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21391a",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 29/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/21390a",
+    "text": "Beira Mar - Fortaleza - 29/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/213905",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138fe",
+    "text": "Beira Mar - Fortaleza - 28/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138fc",
+    "text": "Sabiaguaba - Fortaleza - 28/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138f5",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138f1",
+    "text": "Beira Mar - Fortaleza - 27/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138eb",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 26/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138e5",
+    "text": "Beira Mar - Fortaleza - 26/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138e1",
+    "text": "Sabiaguaba - Fortaleza - 26/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138dc",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 25/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2138ca",
+    "text": "Beira Mar - Fortaleza - 25/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20daf7",
+    "text": "Beira Mar - Fortaleza - 24/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2131f3",
+    "text": "DESAFIO VERTICAL CE - Cumbuco - 24/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/212a81",
+    "text": "Sun Day Run Fortaleza - CE- Fortaleza 24/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dae6",
+    "text": "Beira Mar - Fortaleza - 23/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dadd",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 22/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dad8",
+    "text": "Beira Mar - Fortaleza - 22/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dad1",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 21/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dac9",
+    "text": "Beira Mar - Fortaleza - 21/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dac3",
+    "text": "Sabiaguaba - Fortaleza - 21/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dabb",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 20/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20dab2",
+    "text": "Beira Mar - Fortaleza - 20/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20da95",
+    "text": "Beira Mar - Fortaleza - 19/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20da8f",
+    "text": "Sabiaguaba - Fortaleza - 19/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20da84",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20da61",
+    "text": "Beira Mar - Fortaleza - 18/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208c78",
+    "text": "Track &amp; Field Run Series RioMar - Fortaleza 17/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208c08",
+    "text": "Beira Mar - Fortaleza - 16/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208c03",
+    "text": "Beira Mar - Fortaleza - 15/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208bfc",
+    "text": "Beira Mar - Fortaleza - 14/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208bff",
+    "text": "Sabiaguaba - Fortaleza - 14/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208bfb",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 13/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/208bc1",
+    "text": "Beira Mar - Fortaleza - 13/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20852e",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20852b",
+    "text": "Beira Mar - Fortaleza - 12/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2077a8",
+    "text": "Sabiaguaba - Fortaleza - 12/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2077a3",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 11/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/20779e",
+    "text": "Beira Mar - Fortaleza - 11/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/202f4b",
+    "text": "Beira Mar - Fortaleza - 10/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/206a99",
+    "text": "CORRIDA DA POLICIA CIVIL - 218 ANOS - Fortaleza 10/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/202f40",
+    "text": "Beira Mar - Fortaleza - 09/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/202f3a",
+    "text": "Beira Mar - Fortaleza - 08/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/202f31",
+    "text": "Beira Mar - Fortaleza - 07/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/202f2d",
+    "text": "Sabiaguaba - Fortaleza - 07/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/202f2a",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2027bb",
+    "text": "Beira Mar - Fortaleza - 06/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2027b8",
+    "text": "Beira Mar - Fortaleza - 05/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2027b7",
+    "text": "Sabiaguaba - Fortaleza - 05/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/201bb3",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/201bb1",
+    "text": "Beira Mar - Fortaleza - 04/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fb1a8",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fb1a1",
+    "text": "Beira Mar - Fortaleza - 03/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/2004b7",
+    "text": "3° CORRIDA DO CHOQUEANO - Fortaleza - 03/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fb1ac",
+    "text": "21K TERRA DA LUZ - Fortaleza - 03/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fb192",
+    "text": "Beira Mar - Fortaleza - 02/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fb18a",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fb187",
+    "text": "Beira Mar - Fortaleza - 01/05/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/1fd6cd",
+    "text": "CORRIDA NACIONAL DO SESI - Fortaleza - 01/05/2026"
+  }
 ]
 };
