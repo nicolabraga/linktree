@@ -1,8 +1,8 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 18/06/2026 10:55
+// Atualizado em: 18/06/2026 11:36
 window.LINKS_DATA = {
-  "updated_at": "18/06/2026 10:55",
+  "updated_at": "18/06/2026 11:36",
   "links": [
     {"href": "https://fotopix.com.br/album/226be6", "text": "Beira Mar - Fortaleza - 18/06/2026"},
     {"href": "https://fotopix.com.br/album/226bde", "text": "Sabiaguaba - Fortaleza - 18/06/2026"},
