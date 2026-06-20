@@ -6,23 +6,23 @@ window.LINKS_DATA = {
   "links": [
   {
     "href": "https://fotopix.com.br/album/226c3f",
-    "text": "Album 226c3f"
+    "text": "Beira Mar - Fortaleza - 20/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226bf2",
-    "text": "Album 226bf2"
+    "text": "Beira Mar - Fortaleza - 19/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226bed",
-    "text": "Album 226bed"
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 18/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226be6",
-    "text": "Album 226be6"
+    "text": "Beira Mar - Fortaleza - 18/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226bde",
-    "text": "Album 226bde"
+    "text": "Sabiaguaba - Fortaleza - 18/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226bd3",
@@ -34,23 +34,23 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/226bc7",
-    "text": "Album 226bc7"
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 16/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226bc0",
-    "text": "Album 226bc0"
+    "text": "Beira Mar - Fortaleza - 16/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226bbb",
-    "text": "Album 226bbb"
+    "text": "Sabiaguaba - Fortaleza - 16/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226b8e",
-    "text": "Album 226b8e"
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 15/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/226b86",
-    "text": "Album 226b86"
+    "text": "Beira Mar - Fortaleza - 15/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/221d22",
@@ -110,7 +110,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/221cfd",
-    "text": "Album 221cfd"
+    "text": "Beira Mar - Fortaleza - 08/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/21ab23",
@@ -614,7 +614,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1e8d30",
-    "text": "Album 1e8d30"
+    "text": "MARATONA INTERNACIONAL DE FORTALEZA - 12//04/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1e8d2f",
