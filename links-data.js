@@ -1,8 +1,8 @@
 // Gerado automaticamente
 // Fonte: fotopix.com.br
-// Atualizado em: 20/06/2026 21:47
+// Atualizado em: 21/06/2026 10:56
 window.LINKS_DATA = {
-  "updated_at": "20/06/2026 21:47",
+  "updated_at": "21/06/2026 10:56",
   "links": [
   {
     "href": "https://fotopix.com.br/album/226c3f",
