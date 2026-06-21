@@ -1,9 +1,21 @@
 // Gerado automaticamente
 // Fonte: fotopix.com.br
-// Atualizado em: 21/06/2026 10:56
+// Atualizado em: 21/06/2026 18:00
 window.LINKS_DATA = {
-  "updated_at": "21/06/2026 10:56",
+  "updated_at": "21/06/2026 18:00",
   "links": [
+  {
+    "href": "https://fotopix.com.br/album/22c1c2",
+    "text": "ESTAÇÕES - INVERNO - Fortaleza 21/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226c88",
+    "text": "3ª CORRIDA ENTRE AMIGOS - HEXA RUN - CE- Fortaleza 21/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/226c70",
+    "text": "Beira Mar - Fortaleza - 21/06/2026"
+  },
   {
     "href": "https://fotopix.com.br/album/226c3f",
     "text": "Beira Mar - Fortaleza - 20/06/2026"
