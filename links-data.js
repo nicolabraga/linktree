@@ -1,8 +1,8 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 22/06/2026 11:08
+// Atualizado em: 22/06/2026 11:37
 window.LINKS_DATA = {
-  "updated_at": "22/06/2026 11:08",
+  "updated_at": "22/06/2026 11:37",
   "links": [
     {
         "href": "https://fotopix.com.br/album/22cd7c",
@@ -277,6 +277,10 @@ window.LINKS_DATA = {
         "text": "Beira Mar - Fortaleza - 24/05/2026"
     },
     {
+        "href": "https://fotopix.com.br/album/20dae6",
+        "text": "Beira Mar - Fortaleza - 23/05/2026"
+    },
+    {
         "href": "https://fotopix.com.br/album/20dadd",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 22/05/2026"
     },
@@ -319,6 +323,14 @@ window.LINKS_DATA = {
     {
         "href": "https://fotopix.com.br/album/20da61",
         "text": "Beira Mar - Fortaleza - 18/05/2026"
+    },
+    {
+        "href": "https://fotopix.com.br/album/208c78",
+        "text": "Track & Field Run Series RioMar - Fortaleza 17/05/2026"
+    },
+    {
+        "href": "https://fotopix.com.br/album/208c08",
+        "text": "Beira Mar - Fortaleza - 16/05/2026"
     },
     {
         "href": "https://fotopix.com.br/album/208c03",
@@ -613,6 +625,10 @@ window.LINKS_DATA = {
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 12/04/2026"
     },
     {
+        "href": "https://fotopix.com.br/album/1e8d30",
+        "text": "MARATONA INTERNACIONAL DE FORTALEZA - 12/04/2026"
+    },
+    {
         "href": "https://fotopix.com.br/album/1e8d2f",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 11/04/2026"
     },
@@ -677,6 +693,10 @@ window.LINKS_DATA = {
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/04/2026"
     },
     {
+        "href": "https://fotopix.com.br/album/1e40a6",
+        "text": "Beira Mar - Fortaleza - 04/04/2026"
+    },
+    {
         "href": "https://fotopix.com.br/album/1e40a5",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/04/2026"
     },
@@ -735,6 +755,10 @@ window.LINKS_DATA = {
     {
         "href": "https://fotopix.com.br/album/1de798",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/03/2026"
+    },
+    {
+        "href": "https://fotopix.com.br/album/1de795",
+        "text": "Beira Mar - Fortaleza - 28/03/2026"
     },
     {
         "href": "https://fotopix.com.br/album/1ddee1",
@@ -921,6 +945,10 @@ window.LINKS_DATA = {
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 07/03/2026"
     },
     {
+        "href": "https://fotopix.com.br/album/1c9b99",
+        "text": "Beira Mar - Fortaleza - 07/03/2026"
+    },
+    {
         "href": "https://fotopix.com.br/album/1c9b97",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 06/03/2026"
     },
@@ -977,12 +1005,20 @@ window.LINKS_DATA = {
         "text": "1ª etapa do Sprint Triathlon da FETRIECE - Cumbuco - 28/02/2026"
     },
     {
+        "href": "https://fotopix.com.br/album/1c4b10",
+        "text": "Santander Track&Field Run Series - Del Paseo I - Fortaleza - 01/03/2026"
+    },
+    {
         "href": "https://fotopix.com.br/album/1c4b09",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 01/03/2026"
     },
     {
         "href": "https://fotopix.com.br/album/1c4afb",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 28/02/2026"
+    },
+    {
+        "href": "https://fotopix.com.br/album/1c4af9",
+        "text": "Beira Mar - Fortaleza - 28/02/2026"
     },
     {
         "href": "https://fotopix.com.br/album/1c4af0",
@@ -1123,6 +1159,10 @@ window.LINKS_DATA = {
     {
         "href": "https://fotopix.com.br/album/1bb8ff",
         "text": "Beira Mar - Tarde/Noite - Fortaleza - 14/02/2026"
+    },
+    {
+        "href": "https://fotopix.com.br/album/1bb8fd",
+        "text": "Beira Mar - Fortaleza - 14/02/2026"
     },
     {
         "href": "https://fotopix.com.br/album/1bb8f9",
