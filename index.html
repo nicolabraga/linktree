@@ -1868,15 +1868,7 @@ window.LINKS_DATA = {
       document.getElementById('updatedAt').textContent = window.LINKS_DATA.updated_at;
     }
 
-    const sevenDaysAgo = new Date();
-    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-
-    const filtered = window.LINKS_DATA.links.filter(({ text }) => {
-      const m = text.match(/(\d{2})[\/](\d{2})[\/](\d{4})/);
-      if (!m) return false;
-      const d = new Date(+m[3], +m[2] - 1, +m[1]);
-      return d >= sevenDaysAgo;
-    });
+    const filtered = window.LINKS_DATA.links.slice(0, 15);
 
     container.innerHTML = filtered.map(({ href, text }, i) => {
       const icon  = getIcon(text);
