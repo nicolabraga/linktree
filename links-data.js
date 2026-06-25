@@ -1,9 +1,13 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 25/06/2026 11:47
+// Atualizado em: 25/06/2026 13:00
 window.LINKS_DATA = {
-  "updated_at": "25/06/2026 11:47",
+  "updated_at": "25/06/2026 13:00",
   "links": [
+  {
+    "href": "https://fotopix.com.br/album/22ce0d",
+    "text": "Beira Mar - Tarde/Noite - Fortaleza - 25/06/2026"
+  },
   {
     "href": "https://fotopix.com.br/album/22ce05",
     "text": "Beira Mar - Fortaleza - 25/06/2026"
