@@ -1,9 +1,17 @@
 // Gerado automaticamente
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 27/06/2026 22:04
+// Atualizado em: 28/06/2026 00:00
 window.LINKS_DATA = {
-  "updated_at": "27/06/2026 22:04",
+  "updated_at": "28/06/2026 00:00",
   "links": [
+  {
+    "href": "https://fotopix.com.br/album/22ce94",
+    "text": "Track&Field - Fortaleza 28/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/22ce52",
+    "text": "Beira Mar - Fortaleza - 28/06/2026"
+  },
   {
     "href": "https://fotopix.com.br/album/22ce2d",
     "text": "Beira Mar - Tarde/Noite - Fortaleza - 27/06/2026"
