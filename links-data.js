@@ -1,16 +1,16 @@
-// Gerado automaticamente
+// Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 28/06/2026 00:00
+// Atualizado em: 28/06/2026 12:11
 window.LINKS_DATA = {
-  "updated_at": "28/06/2026 00:00",
+  "updated_at": "28/06/2026 12:11",
   "links": [
-  {
-    "href": "https://fotopix.com.br/album/22ce94",
-    "text": "Track&Field - Fortaleza 28/06/2026"
-  },
   {
     "href": "https://fotopix.com.br/album/22ce52",
     "text": "Beira Mar - Fortaleza - 28/06/2026"
+  },
+  {
+    "href": "https://fotopix.com.br/album/22ce94",
+    "text": "Track&Field - Fortaleza 28/06/2026"
   },
   {
     "href": "https://fotopix.com.br/album/22ce2d",
@@ -470,19 +470,19 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/2027b7",
-    "text": "Sabiaguaba - Fortaleza - 05/05/2026"
+    "text": "Album 2027b7"
   },
   {
     "href": "https://fotopix.com.br/album/201bb3",
-    "text": "Beira Mar - Tarde/Noite - Fortaleza - 04/05/2026"
+    "text": "Album 201bb3"
   },
   {
     "href": "https://fotopix.com.br/album/201bb1",
-    "text": "Beira Mar - Fortaleza - 04/05/2026"
+    "text": "Album 201bb1"
   },
   {
     "href": "https://fotopix.com.br/album/1fb1a8",
-    "text": "Beira Mar - Tarde/Noite - Fortaleza - 03/05/2026"
+    "text": "Album 1fb1a8"
   },
   {
     "href": "https://fotopix.com.br/album/1fb1a1",
@@ -570,7 +570,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1f7bf4",
-    "text": "CABRA DA PESTE - Fortaleza - 25//04/2026"
+    "text": "CABRA DA PESTE - Fortaleza - 25/04/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1f6b08",
@@ -626,7 +626,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1ecc53",
-    "text": "3ª CORRIDA POLÍCIA PENAL DO CEARÁ - Fortaleza - 19//04/2026"
+    "text": "3ª CORRIDA POLÍCIA PENAL DO CEARÁ - Fortaleza - 19/04/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1ecc1f",
@@ -686,7 +686,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1e8d30",
-    "text": "MARATONA INTERNACIONAL DE FORTALEZA - 12//04/2026"
+    "text": "MARATONA INTERNACIONAL DE FORTALEZA - 12/04/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1e8d2f",
@@ -810,7 +810,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1de7a9",
-    "text": "ESTAÇÕES - OUTONO - 2026 - Fortaleza - 29//03/2026"
+    "text": "ESTAÇÕES - OUTONO - 2026 - Fortaleza - 29/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1de798",
@@ -854,11 +854,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1dbf71",
-    "text": "Beira Mar - Fortaleza - 24//03/2026"
+    "text": "Beira Mar - Fortaleza - 24/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1dcbe6",
-    "text": "CORRIDA 100% - 2026 - Fortaleza - 25//03/2026"
+    "text": "CORRIDA 100% - 2026 - Fortaleza - 25/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1dbf66",
@@ -866,7 +866,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1db2cc",
-    "text": "Beira Mar - Fortaleza - 23//03/2026"
+    "text": "Beira Mar - Fortaleza - 23/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1db303",
@@ -874,11 +874,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc19f",
-    "text": "Beira Mar - Fortaleza - 22//03/2026"
+    "text": "Beira Mar - Fortaleza - 22/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc194",
-    "text": "Beira Mar - Fortaleza - 21//03/2026"
+    "text": "Beira Mar - Fortaleza - 21/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc191",
@@ -886,7 +886,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc18f",
-    "text": "Beira Mar - Fortaleza - 20//03/2026"
+    "text": "Beira Mar - Fortaleza - 20/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc18d",
@@ -894,7 +894,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc18b",
-    "text": "Beira Mar - Fortaleza - 19//03/2026"
+    "text": "Beira Mar - Fortaleza - 19/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc188",
@@ -910,7 +910,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc181",
-    "text": "Beira Mar - Fortaleza - 18//03/2026"
+    "text": "Beira Mar - Fortaleza - 18/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc17e",
@@ -918,7 +918,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc177",
-    "text": "Beira Mar - Fortaleza - 17//03/2026"
+    "text": "Beira Mar - Fortaleza - 17/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc16d",
@@ -930,11 +930,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc165",
-    "text": "Beira Mar - Fortaleza - 16//03/2026"
+    "text": "Beira Mar - Fortaleza - 16/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc153",
-    "text": "LIVE! RUN XP - FORTALEZA 2026 - Fortaleza - 15//03/2026"
+    "text": "LIVE! RUN XP - FORTALEZA 2026 - Fortaleza - 15/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc149",
@@ -942,15 +942,15 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc147",
-    "text": "Beira Mar - Fortaleza - 14//03/2026"
+    "text": "Beira Mar - Fortaleza - 14/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc141",
-    "text": "Beira Mar - Fortaleza - 13//03/2026"
+    "text": "Beira Mar - Fortaleza - 13/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc12e",
-    "text": "Beira Mar - Fortaleza - 12//03/2026"
+    "text": "Beira Mar - Fortaleza - 12/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc127",
@@ -966,7 +966,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc123",
-    "text": "Beira Mar - Fortaleza - 11//03/2026"
+    "text": "Beira Mar - Fortaleza - 11/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc11f",
@@ -974,7 +974,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc11d",
-    "text": "Beira Mar - Fortaleza - 10//03/2026"
+    "text": "Beira Mar - Fortaleza - 10/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1cc11b",
@@ -990,7 +990,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1cc10e",
-    "text": "Beira Mar - Fortaleza - 09//03/2026"
+    "text": "Beira Mar - Fortaleza - 09/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c9bb1",
@@ -1022,7 +1022,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c9b89",
-    "text": "Beira Mar - Fortaleza - 05//03/2026"
+    "text": "Beira Mar - Fortaleza - 05/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c9b7f",
@@ -1034,7 +1034,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c9b6f",
-    "text": "Beira Mar - Fortaleza - 04//03/2026"
+    "text": "Beira Mar - Fortaleza - 04/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c9b5b",
@@ -1042,7 +1042,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c9b50",
-    "text": "Beira Mar - Fortaleza - 03//03/2026"
+    "text": "Beira Mar - Fortaleza - 03/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c9b37",
@@ -1058,7 +1058,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c9adf",
-    "text": "Beira Mar - Fortaleza - 02//03/2026"
+    "text": "Beira Mar - Fortaleza - 02/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c4b09",
@@ -1066,7 +1066,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c4b10",
-    "text": "Santander Track&Field Run Series - Del Paseo I - Fortaleza - 01//03/2026"
+    "text": "Santander Track&Field Run Series - Del Paseo I - Fortaleza - 01/03/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c4afb",
@@ -1074,11 +1074,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c4af9",
-    "text": "Beira Mar - Fortaleza - 28//02/2026"
+    "text": "Beira Mar - Fortaleza - 28/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c744d",
-    "text": "1ª etapa do Sprint Triathlon da FETRIECE - Cumbuco - 28//02/2026"
+    "text": "1ª etapa do Sprint Triathlon da FETRIECE - Cumbuco - 28/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c4af0",
@@ -1086,7 +1086,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c4aeb",
-    "text": "Beira Mar - Fortaleza - 27//02/2026"
+    "text": "Beira Mar - Fortaleza - 27/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c4aa2",
@@ -1094,7 +1094,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c4aa1",
-    "text": "Beira Mar - Fortaleza - 26//02/2026"
+    "text": "Beira Mar - Fortaleza - 26/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c4a9b",
@@ -1106,11 +1106,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c4a71",
-    "text": "Beira Mar - Fortaleza - 25//02/2026"
+    "text": "Beira Mar - Fortaleza - 25/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c4a20",
-    "text": "Beira Mar - Fortaleza - 24//02/2026"
+    "text": "Beira Mar - Fortaleza - 24/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c49f7",
@@ -1126,7 +1126,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1c499b",
-    "text": "Beira Mar - Fortaleza - 23//02/2026"
+    "text": "Beira Mar - Fortaleza - 23/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bfc1b",
@@ -1134,7 +1134,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfc1a",
-    "text": "Beira Mar - Fortaleza - 22//02/2026"
+    "text": "Beira Mar - Fortaleza - 22/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bfc16",
@@ -1142,7 +1142,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfc15",
-    "text": "Beira Mar - Fortaleza - 21//02/2026"
+    "text": "Beira Mar - Fortaleza - 21/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c29f1",
@@ -1158,7 +1158,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfc12",
-    "text": "Beira Mar - Fortaleza - 20//02/2026"
+    "text": "Beira Mar - Fortaleza - 20/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bfc11",
@@ -1166,7 +1166,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfc07",
-    "text": "Beira Mar - Fortaleza - 19//02/2026"
+    "text": "Beira Mar - Fortaleza - 19/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bfc2e",
@@ -1182,7 +1182,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfbfb",
-    "text": "Beira Mar - Fortaleza - 18//02/2026"
+    "text": "Beira Mar - Fortaleza - 18/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bfbf7",
@@ -1190,7 +1190,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfbf3",
-    "text": "Beira Mar - Fortaleza - 17//02/2026"
+    "text": "Beira Mar - Fortaleza - 17/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1c0d67",
@@ -1206,7 +1206,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bfbe8",
-    "text": "Beira Mar - Fortaleza - 16//02/2026"
+    "text": "Beira Mar - Fortaleza - 16/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bb90d",
@@ -1214,7 +1214,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bb909",
-    "text": "Beira Mar - Fortaleza - 15//02/2026"
+    "text": "Beira Mar - Fortaleza - 15/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bb8ff",
@@ -1222,7 +1222,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bb8fd",
-    "text": "Beira Mar - Fortaleza - 14//02/2026"
+    "text": "Beira Mar - Fortaleza - 14/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bb8f9",
@@ -1238,7 +1238,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bb8ef",
-    "text": "Beira Mar - Fortaleza - 12//02/2026"
+    "text": "Beira Mar - Fortaleza - 12/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bb8eb",
@@ -1254,7 +1254,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bb8dc",
-    "text": "Beira Mar - Fortaleza - 11//02/2026"
+    "text": "Beira Mar - Fortaleza - 11/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bb8da",
@@ -1262,7 +1262,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bb8d8",
-    "text": "Beira Mar - Fortaleza - 10//02/2026"
+    "text": "Beira Mar - Fortaleza - 10/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1bb8cd",
@@ -1278,19 +1278,19 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1bb87c",
-    "text": "Beira Mar - Fortaleza - 09//02/2026"
+    "text": "Beira Mar - Fortaleza - 09/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b8b74",
-    "text": "Beira Mar - Fortaleza - 08//02/2026"
+    "text": "Beira Mar - Fortaleza - 08/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b8b6c",
-    "text": "Beira Mar - Fortaleza - 07//02/2026"
+    "text": "Beira Mar - Fortaleza - 07/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b8b67",
-    "text": "Beira Mar - Fortaleza - 06//02/2026"
+    "text": "Beira Mar - Fortaleza - 06/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b8727",
@@ -1298,7 +1298,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b8726",
-    "text": "Beira Mar - Fortaleza - 05//02/2026"
+    "text": "Beira Mar - Fortaleza - 05/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b8725",
@@ -1314,7 +1314,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b871f",
-    "text": "Beira Mar - Fortaleza - 04//02/2026"
+    "text": "Beira Mar - Fortaleza - 04/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b6fa0",
@@ -1322,7 +1322,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b6f9b",
-    "text": "Beira Mar - Fortaleza - 03//02/2026"
+    "text": "Beira Mar - Fortaleza - 03/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b6f91",
@@ -1338,7 +1338,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b6f7f",
-    "text": "Beira Mar - Fortaleza - 02//02/2026"
+    "text": "Beira Mar - Fortaleza - 02/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b3459",
@@ -1346,11 +1346,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b3455",
-    "text": "Beira Mar - Fortaleza - 01//02/2026"
+    "text": "Beira Mar - Fortaleza - 01/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b345f",
-    "text": "Meia Maratona Revezamento de Verao - Fortaleza - 01//02/2026"
+    "text": "Meia Maratona Revezamento de Verao - Fortaleza - 01/02/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b344f",
@@ -1358,7 +1358,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b344a",
-    "text": "Beira Mar - Fortaleza - 31//01/2026"
+    "text": "Beira Mar - Fortaleza - 31/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b3443",
@@ -1366,11 +1366,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b343e",
-    "text": "Beira Mar - Fortaleza - 30//01/2026"
+    "text": "Beira Mar - Fortaleza - 30/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b3437",
-    "text": "Beira Mar - Fortaleza - 29//01/2026"
+    "text": "Beira Mar - Fortaleza - 29/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b3434",
@@ -1386,11 +1386,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b3427",
-    "text": "Beira Mar - Fortaleza - 28//01/2026"
+    "text": "Beira Mar - Fortaleza - 28/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b33ea",
-    "text": "Beira Mar - Fortaleza - 27//01/2026"
+    "text": "Beira Mar - Fortaleza - 27/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b33e6",
@@ -1406,15 +1406,15 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b30b5",
-    "text": "Beira Mar - Fortaleza - 26//01/2026"
+    "text": "Beira Mar - Fortaleza - 26/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b0424",
-    "text": "Beira Mar - Fortaleza - 25//01/2026"
+    "text": "Beira Mar - Fortaleza - 25/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b1f70",
-    "text": "CIRCUITO SESC DE CORRIDAS - Fortaleza - 25//01/2026"
+    "text": "CIRCUITO SESC DE CORRIDAS - Fortaleza - 25/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b0421",
@@ -1422,7 +1422,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1b041e",
-    "text": "Beira Mar - Fortaleza - 24//01/2026"
+    "text": "Beira Mar - Fortaleza - 24/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1b041a",
@@ -1430,7 +1430,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1aee5c",
-    "text": "Beira Mar - Fortaleza - 23//01/2026"
+    "text": "Beira Mar - Fortaleza - 23/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1aee5b",
@@ -1438,7 +1438,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1aee5a",
-    "text": "Beira Mar - Fortaleza - 22//01/2026"
+    "text": "Beira Mar - Fortaleza - 22/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1aee57",
@@ -1454,11 +1454,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1aee4d",
-    "text": "Beira Mar - Fortaleza - 21//01/2026"
+    "text": "Beira Mar - Fortaleza - 21/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1aee2b",
-    "text": "Beira Mar - Fortaleza - 20//01/2026"
+    "text": "Beira Mar - Fortaleza - 20/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1aee2e",
@@ -1474,7 +1474,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94f6",
-    "text": "Beira Mar - Fortaleza - 19//01/2026"
+    "text": "Beira Mar - Fortaleza - 19/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94f3",
@@ -1482,7 +1482,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94ef",
-    "text": "Beira Mar - Fortaleza - 18//01/2026"
+    "text": "Beira Mar - Fortaleza - 18/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94e6",
@@ -1490,7 +1490,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94df",
-    "text": "Beira Mar - Fortaleza - 17//01/2026"
+    "text": "Beira Mar - Fortaleza - 17/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94dc",
@@ -1498,7 +1498,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94d9",
-    "text": "Beira Mar - Fortaleza - 16//01/2026"
+    "text": "Beira Mar - Fortaleza - 16/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94d4",
@@ -1506,7 +1506,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94d2",
-    "text": "Beira Mar - Fortaleza - 15//01/2026"
+    "text": "Beira Mar - Fortaleza - 15/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94ce",
@@ -1522,7 +1522,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94bc",
-    "text": "Beira Mar - Fortaleza - 14//01/2026"
+    "text": "Beira Mar - Fortaleza - 14/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94b4",
@@ -1530,7 +1530,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a94b1",
-    "text": "Beira Mar - Fortaleza - 13//01/2026"
+    "text": "Beira Mar - Fortaleza - 13/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a94ab",
@@ -1546,15 +1546,15 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a9498",
-    "text": "Beira Mar - Fortaleza - 12//01/2026"
+    "text": "Beira Mar - Fortaleza - 12/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50d2",
-    "text": "Beira Mar - Fortaleza - 11//01/2026"
+    "text": "Beira Mar - Fortaleza - 11/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a9068",
-    "text": "Porto Saúde Track & Field Experience Limiar IV! - Fortaleza - 11//01/2026"
+    "text": "Porto Saúde Track & Field Experience Limiar IV! - Fortaleza - 11/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a90bd",
@@ -1562,7 +1562,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50d0",
-    "text": "Beira Mar - Fortaleza - 10//01/2026"
+    "text": "Beira Mar - Fortaleza - 10/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50c1",
@@ -1570,7 +1570,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50c0",
-    "text": "Beira Mar - Fortaleza - 09//01/2026"
+    "text": "Beira Mar - Fortaleza - 09/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50bf",
@@ -1578,7 +1578,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50be",
-    "text": "Beira Mar - Fortaleza - 08//01/2026"
+    "text": "Beira Mar - Fortaleza - 08/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50bd",
@@ -1594,7 +1594,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50b9",
-    "text": "Beira Mar - Fortaleza - 07//01/2026"
+    "text": "Beira Mar - Fortaleza - 07/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50b2",
@@ -1602,7 +1602,7 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50b1",
-    "text": "Beira Mar - Fortaleza - 06//01/2026"
+    "text": "Beira Mar - Fortaleza - 06/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50b3",
@@ -1618,11 +1618,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50ae",
-    "text": "Beira Mar - Fortaleza - 05//01/2026"
+    "text": "Beira Mar - Fortaleza - 05/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50ac",
-    "text": "Beira Mar - Fortaleza - 04//01/2026"
+    "text": "Beira Mar - Fortaleza - 04/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50a8",
@@ -1630,11 +1630,11 @@ window.LINKS_DATA = {
   },
   {
     "href": "https://fotopix.com.br/album/1a50a7",
-    "text": "Beira Mar - Fortaleza - 03//01/2026"
+    "text": "Beira Mar - Fortaleza - 03/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50a4",
-    "text": "Beira Mar - Fortaleza - 02//01/2026"
+    "text": "Beira Mar - Fortaleza - 02/01/2026"
   },
   {
     "href": "https://fotopix.com.br/album/1a50a2",
