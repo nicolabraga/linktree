@@ -46,21 +46,37 @@ def get_album_ids_for_month(year, month):
 
 
 def get_album_title(album_id):
-    """Busca a página do álbum e extrai o título completo do H1."""
+    """Busca a página do álbum e extrai o nome real do álbum.
+
+    IMPORTANTE: desde que o Fotopix passou a exigir o app Banlek para
+    visualizar álbuns, o <h1> da página virou um texto genérico
+    ("This album can only be accessed through the Banlek app"), igual
+    em todas as páginas. Por isso o <title> da página (que traz o nome
+    real do álbum, ex: "Beira Mar - Fortaleza - 02/07/2026 - Álbum de
+    Fotos de Corrida | Fortaleza, CE") deve ser usado como fonte
+    primária. O H1 só é usado como fallback, e é ignorado se bater com
+    o texto genérico do paywall.
+    """
     hex_id = hex(album_id)[2:]
     url = f"https://fotopix.com.br/album/{hex_id}"
     html = fetch(url)
 
-    # H1 com o título completo
+    # Fonte primária: título da página antes de " - Álbum"
+    m = re.search(r'<title>\s*([^<|]+?)\s*-\s*[ÁA]lbum', html, re.IGNORECASE)
+    if m:
+        return m.group(1).strip(), url
+
+    # Fallback: título da página antes de "|"
+    m = re.search(r'<title>\s*([^<|]+?)\s*\|', html, re.IGNORECASE)
+    if m:
+        return m.group(1).strip(), url
+
+    # Último fallback: H1, mas ignora o texto genérico do paywall Banlek
     m = re.search(r'<h1[^>]*>\s*([^<]+?)\s*</h1>', html, re.IGNORECASE)
     if m:
         title = m.group(1).strip()
-        return title, url
-
-    # Fallback: título da página antes de " - Álbum"
-    m = re.search(r'<title>\s*([^<|]+?)\s*(?:-\s*Álbum|\|)', html, re.IGNORECASE)
-    if m:
-        return m.group(1).strip(), url
+        if "banlek app" not in title.lower():
+            return title, url
 
     return None, url
 
