@@ -1,9 +1,17 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 04/07/2026 21:44
+// Atualizado em: 05/07/2026 08:49
 window.LINKS_DATA = {
-  "updated_at": "04/07/2026 21:44",
+  "updated_at": "05/07/2026 08:49",
   "links": [
+    {
+      "href": "https://fotopix.com.br/album/2325ab",
+      "text": "3ª Meia Maratona BNB Clube - Fortaleza 05/07/2026"
+    },
+    {
+      "href": "https://fotopix.com.br/album/232575",
+      "text": "Beira Mar - Fortaleza - 05/07/2026"
+    },
     {
       "href": "https://fotopix.com.br/album/23629f",
       "text": "II Etapa Sprint Triathlon - Cumbuco - 04/07/2026"
