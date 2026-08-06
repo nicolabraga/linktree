@@ -1,9 +1,21 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 05/08/2026 07:59
+// Atualizado em: 06/08/2026 07:58
 window.LINKS_DATA = {
-  "updated_at": "05/08/2026 07:59",
+  "updated_at": "06/08/2026 07:58",
   "links": [
+    {
+      "href": "https://fotopix.com.br/album/2507b8",
+      "text": "Beira Mar - Fortaleza - 06/08/2026"
+    },
+    {
+      "href": "https://fotopix.com.br/album/2507ae",
+      "text": "Sabiaguaba - Fortaleza - 06/08/2026"
+    },
+    {
+      "href": "https://fotopix.com.br/album/2507ac",
+      "text": "Beira Mar - Tarde/Noite - Fortaleza - 05/08/2026"
+    },
     {
       "href": "https://fotopix.com.br/album/2507aa",
       "text": "Beira Mar - Fortaleza - 05/08/2026"
@@ -1679,6 +1691,6 @@ window.LINKS_DATA = {
     {
       "href": "https://fotopix.com.br/album/1b345f",
       "text": "Meia Maratona Revezamento de Verao - Fortaleza - 01//02/2026"
-    },
+    }
   ]
 };
