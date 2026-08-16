@@ -1,9 +1,17 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 15/08/2026 08:29
+// Atualizado em: 16/08/2026 12:43
 window.LINKS_DATA = {
-  "updated_at": "15/08/2026 08:29",
+  "updated_at": "16/08/2026 12:43",
   "links": [
+    {
+      "href": "https://fotopix.com.br/album/256261",
+      "text": "Beira Mar - Fortaleza - 16/08/2026"
+    },
+    {
+      "href": "https://fotopix.com.br/album/25b929",
+      "text": "Granado Pink 2026 - Fortaleza 16/08/2026"
+    },
     {
       "href": "https://fotopix.com.br/album/256258",
       "text": "Beira Mar - Fortaleza - 15/08/2026"
