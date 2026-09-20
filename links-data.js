@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 19/09/2026 20:02
+// Atualizado em: 20/09/2026 08:10
 window.LINKS_DATA = {
-  "updated_at": "19/09/2026 20:02",
+  "updated_at": "20/09/2026 08:10",
   "links": [
+    {"href": "https://fotopix.com.br/album/278cab", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 20/09/2026"},
     {"href": "https://fotopix.com.br/album/27b654", "text": "Triathlon Olímpico - 2026 - Cumbuco - 19/09/2026"},
     {"href": "https://fotopix.com.br/album/278ca4", "text": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza - 19/09/2026"},
     {"href": "https://fotopix.com.br/album/278ca3", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 19/09/2026"},
