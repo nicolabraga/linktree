@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 20/09/2026 18:35
+// Atualizado em: 21/09/2026 07:33
 window.LINKS_DATA = {
-  "updated_at": "20/09/2026 18:35",
+  "updated_at": "21/09/2026 07:33",
   "links": [
+    {"href": "https://fotopix.com.br/album/27dbb8", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 21/09/2026"},
     {"href": "https://fotopix.com.br/album/278cad", "text": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza - 20/09/2026"},
     {"href": "https://fotopix.com.br/album/278cc2", "text": "SANTANDER TRACK&FIELD RUN SERIES - SHOPPING DEL PASEO IICorrida - 2026 - Fortaleza 20/09/2026"},
     {"href": "https://fotopix.com.br/album/278cab", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 20/09/2026"},
