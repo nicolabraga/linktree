@@ -1,0 +1,39 @@
+name: Sync álbuns fotopix
+
+# Horários em UTC (Fortaleza = UTC-3):
+#   seg-sex: 07:45, 08:00, 09:00, 18:00, 19:00
+#   sáb-dom: 08:00, 09:00, 10:00, 18:00, 19:00
+on:
+  schedule:
+    - cron: '45 10 * * 1-5'
+    - cron: '0 11,12,21,22 * * *'
+    - cron: '0 13 * * 0,6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-fotopix
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Buscar álbuns novos no fotopix
+        run: node scripts/sync-fotopix.mjs linktree
+      - name: Publicar (commit + push)
+        run: |
+          if git diff --quiet; then echo "Nada a publicar."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add links-data.js index.html
+          git commit -m "Auto-update $(TZ=America/Fortaleza date '+%d/%m/%Y %H:%M')"
+          git pull --rebase
+          git push
