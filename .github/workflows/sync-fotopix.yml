@@ -5,9 +5,7 @@ name: Sync álbuns fotopix
 #   sáb-dom: 08:00, 09:00, 10:00, 18:00, 19:00
 on:
   schedule:
-    - cron: '45 10 * * 1-5'
-    - cron: '0 11,12,21,22 * * *'
-    - cron: '0 13 * * 0,6'
+    - cron: '7,27,47 10-13,20-23 * * *'
   workflow_dispatch:
 
 permissions:
