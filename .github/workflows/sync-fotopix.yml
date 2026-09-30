@@ -1,8 +1,8 @@
 name: Sync álbuns fotopix
 
-# Horários em UTC (Fortaleza = UTC-3):
-#   seg-sex: 07:45, 08:00, 09:00, 18:00, 19:00
-#   sáb-dom: 08:00, 09:00, 10:00, 18:00, 19:00
+# Disparo principal: cron-job.org (pontual), a cada 20 min das 07:00 às 10:40 e 17:00 às 20:40 (Fortaleza).
+# O agendamento do GitHub abaixo fica só como reserva (costuma atrasar horas).
+# Este workflow atualiza o linktree e, no fim, dispara o mesmo sync nos outros dois repositórios.
 on:
   schedule:
     - cron: '7,27,47 10-13,20-23 * * *'
@@ -35,3 +35,18 @@ jobs:
           git commit -m "Auto-update $(TZ=America/Fortaleza date '+%d/%m/%Y %H:%M')"
           git pull --rebase
           git push
+
+  disparar-outros-sites:
+    needs: sync
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Disparar linktree-nicolabragafoto e linktree-fotopix
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "Segredo DISPATCH_TOKEN não configurado."; exit 1; fi
+          gh workflow run sync-fotopix.yml -R nicolabraga/linktree-nicolabragafoto --ref main
+          gh workflow run sync-fotopix.yml -R nicolabraga/linktree-fotopix --ref main
+          echo "Os dois sites foram disparados."
