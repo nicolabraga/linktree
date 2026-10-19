@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 18/10/2026 19:20
+// Atualizado em: 19/10/2026 07:20
 window.LINKS_DATA = {
-  "updated_at": "18/10/2026 19:20",
+  "updated_at": "19/10/2026 07:20",
   "links": [
+    {"href": "https://fotopix.com.br/album/28c454", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 19/10/2026"},
     {"href": "https://fotopix.com.br/album/28c433", "text": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza - 18/10/2026"},
     {"href": "https://fotopix.com.br/album/2958ce", "text": "19º Corrida Unimed Fortaleza - 2026 - Fortaleza 18/10/2026"},
     {"href": "https://fotopix.com.br/album/28c412", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 18/10/2026"},
