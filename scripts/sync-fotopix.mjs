@@ -51,11 +51,20 @@ async function listHrefs(months = 2) {
       variables: JSON.stringify({ id_fotografo: ID_FOTO, periodo: 'passados', nav: { page, itemsPerPage: 32 } }),
       extensions: JSON.stringify({ persistedQuery: { version: 1, sha256Hash: GQL_HASH } }),
     });
-    const r = await get(`${GQL_URL}?${qs}`, {
-      ...HEADERS, 'content-type': 'application/json', 'accept-language': 'pt',
-      Origin: 'https://fotopix.com.br', Referer: 'https://fotopix.com.br/',
-    });
-    const j = await r.json();
+    // A Banlek às vezes responde PersistedQueryNotFound por alguns segundos (cache do servidor
+    // reiniciando). Tenta de novo algumas vezes antes de desistir.
+    let j;
+    for (let tentativa = 1; ; tentativa++) {
+      const r = await get(`${GQL_URL}?${qs}`, {
+        ...HEADERS, 'content-type': 'application/json', 'accept-language': 'pt',
+        Origin: 'https://fotopix.com.br', Referer: 'https://fotopix.com.br/',
+      });
+      j = await r.json();
+      const transitorio = j.errors?.some(e => /PersistedQueryNotFound/i.test(e.message || ''));
+      if (!transitorio || tentativa >= 4) break;
+      console.warn(`API Banlek: PersistedQueryNotFound (tentativa ${tentativa}), aguardando ${tentativa * 15}s...`);
+      await new Promise(res => setTimeout(res, tentativa * 15000));
+    }
     if (j.errors?.length) throw new Error('API Banlek: ' + j.errors.map(e => e.message).join('; '));
     const items = j.data?.albuns?.items || [];
     for (const a of items) {
