@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 05/11/2026 19:40
+// Atualizado em: 06/11/2026 07:40
 window.LINKS_DATA = {
-  "updated_at": "05/11/2026 19:40",
+  "updated_at": "06/11/2026 07:40",
   "links": [
+    {"href": "https://fotopix.com.br/album/2a3bf0", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 06/11/2026"},
     {"href": "https://fotopix.com.br/album/2a3bf7", "text": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza - 05/11/2026"},
     {"href": "https://fotopix.com.br/album/2a3bef", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 05/11/2026"},
     {"href": "https://fotopix.com.br/album/2a3bfe", "text": "Treino Sabiaguaba Ciclismo CE010 - Fortaleza - 05/11/2026"},
