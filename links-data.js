@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 08/11/2026 08:00
+// Atualizado em: 09/11/2026 07:20
 window.LINKS_DATA = {
-  "updated_at": "08/11/2026 08:00",
+  "updated_at": "09/11/2026 07:20",
   "links": [
+    {"href": "https://fotopix.com.br/album/2a428c", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 09/11/2026"},
     {"href": "https://fotopix.com.br/album/2a3bf3", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 08/11/2026"},
     {"href": "https://fotopix.com.br/album/2a64f7", "text": "2ª Edição Circuito do Aço - 2026 - Fortaleza 08/11/2026"},
     {"href": "https://fotopix.com.br/album/2a3bfa", "text": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza - 07/11/2026"},
