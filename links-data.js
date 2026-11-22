@@ -1,9 +1,10 @@
 // Gerado automaticamente por update_links.py
 // Fonte: https://fotopix.com.br/
-// Atualizado em: 22/11/2026 07:40
+// Atualizado em: 22/11/2026 09:00
 window.LINKS_DATA = {
-  "updated_at": "22/11/2026 07:40",
+  "updated_at": "22/11/2026 09:00",
   "links": [
+    {"href": "https://fotopix.com.br/album/2b7b54", "text": "8° Corrida da Rodovia - Corrida - Fortaleza - 22/11/2026"},
     {"href": "https://fotopix.com.br/album/2a63c6", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 22/11/2026"},
     {"href": "https://fotopix.com.br/album/2a63e9", "text": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza - 21/11/2026"},
     {"href": "https://fotopix.com.br/album/2a63c3", "text": "Treino Beira Mar Corrida Manhã - Fortaleza - 21/11/2026"},
